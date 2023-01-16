@@ -1,0 +1,42 @@
+name: hugo
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  hugo:
+    runs-on: ubuntu-22.04
+    steps:
+      -
+        name: Checkout
+        uses: actions/checkout@v2
+        with:
+          submodules: recursive
+      -
+        name: Install node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '18.x'
+      - 
+        name: Build theme
+        run: |
+          npm install
+          npm run build --if-present
+      -
+        name: Run Hugo
+        uses: crazy-max/ghaction-hugo@v1
+        with:
+          version: v0.93.3
+          extended: true
+          args: --cleanDestinationDir --minify --verbose
+      -
+        name: Deploy to GitHub Pages
+        if: success() && github.event_name != 'pull_request'
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: gh-pages
+          build_dir: public
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

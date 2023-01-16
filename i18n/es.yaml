@@ -1,0 +1,17 @@
+- id: get-started
+  translation: "Iniciar"
+
+- id: on-this-page
+  translation: "En está página"
+
+- id: search-text
+  translation: "Buscar..."
+
+- id: 404-title
+  translation: "Nada por aquí. :("
+
+- id: 404-text
+  translation: "No hay nada."
+
+- id: browse
+  translation: "Buscar"

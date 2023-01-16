@@ -1,0 +1,124 @@
+@import "mixins";
+
+//
+// Variables
+//
+$custom-primary-color: #d28164;
+$custom-primary-color-active: #c06b4d;
+
+$custom-primary-dark-color: #8ed6fb;
+$custom-primary-dark-color-active: #8ed6fb;
+
+$custom-btn-bg-color: #d28164;
+$custom-btn-bg-active-color: #c06b4d;
+
+$custom-color: #2b2b2b;
+$custom-color-headings: #4a4a4a;
+$custom-color-muted: #6c757d;
+$custom-bg-color: #f3f1e9;
+$custom-bg-alt-color: #faf8f1;
+$custom-bg-input-color: #f3f1e9;
+$custom-border-color: rgba(0,0,0,0.2);
+
+$custom-dark-color: #dee2e6;
+$custom-dark-color-headings: #dee2e6a0;
+$custom-color-dark-muted: #c8cfd6;
+$custom-bg-dark-color: #212529;
+$custom-bg-alt-dark-color: #1b1f22;
+$custom-bg-input-dark-color: #1b1f22;
+$custom-border-dark-color: #343a40;
+
+$custom-btn-color: #fff;
+$custom-btn-dark-color: #fff;
+
+
+//
+// Styles
+//
+.navbar-brand {
+  position: relative;
+
+  & > img {
+    position: absolute;
+    max-height: 35px !important;
+  }
+
+  & > span {
+    padding-left: 45px;
+  }
+}
+
+::selection {
+  background: $custom-primary-color;
+  color: $custom-btn-color;
+}
+
+.header-bar {
+  border-color: #d28164;
+  border-image-source: none;
+}
+
+.sticky-top {
+  background-image: url('/images/top.jpg');
+  background-size: cover;
+}
+
+.navbar {
+  border-bottom-width: 2px;
+  background-color: rgba(0,0,0,0.4) !important;
+  backdrop-filter: grayscale(100%);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+
+  a, .navbar-brand > span {
+    color: white !important;
+    text-shadow: 0 0 5px rgba(0,0,0,1);
+  }
+
+  & .offcanvas {
+    background-color: transparent !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .doks-search {
+    margin-top: 5px;
+  }
+}
+
+#logo-index {
+  /*border: 6px solid #c06b4d;*/
+}
+
+body {
+  @include custom-colors(
+    $custom-color,
+    $custom-color-headings,
+    $custom-color-muted,
+    $custom-bg-color,
+    $custom-bg-alt-color,
+    $custom-bg-input-color,
+    $custom-primary-color,
+    $custom-primary-color-active,
+    $custom-btn-bg-color,
+    $custom-btn-bg-active-color,
+    $custom-btn-color,
+    $custom-border-color
+  );
+}
+
+[data-dark-mode] body {
+  @include custom-colors(
+    $custom-dark-color,
+    $custom-dark-color-headings,
+    $custom-color-dark-muted,
+    $custom-bg-dark-color,
+    $custom-bg-alt-dark-color,
+    $custom-bg-input-dark-color,
+    $custom-primary-dark-color,
+    $custom-primary-dark-color-active,
+    $custom-btn-bg-color,
+    $custom-btn-bg-active-color,
+    $custom-btn-dark-color,
+    $custom-border-dark-color
+  );
+}

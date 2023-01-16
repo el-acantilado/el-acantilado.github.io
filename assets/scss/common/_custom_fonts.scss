@@ -1,0 +1,13 @@
+/** Override lead size */
+.lead {
+  font-size: inherit !important;
+}
+
+body, p {
+  line-height: 1.9em;
+  letter-spacing: 0.01em;
+}
+
+.navbar {
+  font-family: $headings-font-family;
+}

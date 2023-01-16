@@ -1,0 +1,190 @@
+//
+// Custom colors
+//
+@mixin custom-colors(
+  $color,
+  $color-headings,
+  $color-muted,
+  $bg-color,
+  $bg-alt-color,
+  $bg-input-color,
+  $primary,
+  $primary-active,
+  $btn-bg-color,
+  $btn-bg-active-color,
+  $btn-color,
+  $border-color
+) {
+  color: $color !important;
+  background-color: $bg-color !important;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: $color-headings !important;
+  }
+
+  .text-muted {
+    color: $color-muted !important;
+  }
+
+  input.form-control {
+    background-color: $bg-input-color !important;
+
+    &,
+    &::placeholder {
+      color: $color !important;
+    }
+
+    &:focus {
+      border-color: $primary !important;
+    }
+  }
+
+  #suggestions {
+    background-color: $bg-input-color !important;
+    color: $color !important;
+    border-color: $color !important;
+    a:hover {
+      background-color: $bg-alt-color !important;
+    }
+  }
+
+  .docs-sidebar,
+  .footer,
+  .docs-navigation,
+  .card {
+    border-color: $border-color;
+  }
+
+  .doks-search::after {
+    color: $color;
+    border-color: $color;
+  }
+
+  .active {
+    color: $primary !important;
+  }
+
+  .btn,
+  #mode {
+    &:hover,
+    &:active,
+    &:focus {
+      color: $primary;
+    }
+  }
+
+  .btn-link {
+    color: $color;
+
+    &:hover,
+    &:active,
+    &:focus {
+      color: $primary-active !important;
+    }
+  }
+
+  .alert-doks {
+    color: $color;
+    background-color: $bg-alt-color;
+  }
+
+  a.docs-link,
+  .btn-toggle[aria-expanded="true"],
+  .alert-doks,
+  .offcanvas a.nav-link,
+  a.navbar-brand > span,
+  .dropdown-item {
+    color: $color;
+  }
+
+  .btn-outline-primary {
+    color: $color !important;
+    border-color: $btn-bg-color;
+    &:hover,
+    &:active,
+    &:focus {
+      background-color: $btn-bg-active-color;
+      border-color: $btn-bg-active-color;
+      color: $btn-color !important;
+    }
+  }
+
+  .btn-primary,
+  .btn-copy {
+    background-color: $btn-bg-color;
+    border-color: $btn-bg-color;
+    color: $btn-color !important;
+
+    &:hover,
+    &:active,
+    &:focus {
+      background-color: $btn-bg-active-color;
+      border-color: $btn-bg-active-color;
+      color: $btn-color !important;
+    }
+  }
+
+  .btn-light {
+    border-color: none;
+    background-color: $bg-alt-color !important;
+    color: $color !important;
+    &:hover,
+    &:active,
+    &:focus {
+      color: $btn-bg-active-color !important;
+      border-color: $btn-bg-color;
+    }
+  }
+
+  a:not(.btn):not(.nav-link):not(.navbar-brand) {
+    &:hover,
+    &:active,
+    &:focus {
+      color: $primary !important;
+    }
+
+    &:not(.docs-link):not(.dropdown-item) {
+      color: $primary !important;
+    }
+  }
+
+  & #TableOfContents ul li a {
+    color: $color !important;
+
+    &:hover {
+      color: $primary !important;
+    }
+  }
+
+  .navbar {
+    &,
+    & .offcanvas {
+      border-color: $border-color;
+      background-color: $bg-color;
+    }
+  }
+
+  .nav-link,
+  a.navbar-brand > span {
+    &:hover,
+    &:active,
+    &:focus {
+      color: $primary !important;
+    }
+  }
+
+  .hljs,
+  code:not(.hljs) {
+    background-color: $bg-alt-color;
+  }
+
+  .card {
+    border-color: $border-color;
+    background-color: $bg-alt-color;
+  }
+}

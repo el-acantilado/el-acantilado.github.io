@@ -63,19 +63,30 @@ $custom-btn-dark-color: #fff;
   background-size: cover;
 }
 
+.btn-menu {
+  color: #fff;
+}
+
 .navbar {
   border-bottom-width: 2px;
   background-color: rgba(0,0,0,0.4) !important;
-  backdrop-filter: grayscale(100%);
+
   box-shadow: 0 2px 5px rgba(0,0,0,0.5);
 
-  a, .navbar-brand > span {
+  .navbar-brand > span {
     color: white !important;
     text-shadow: 0 0 5px rgba(0,0,0,1);
   }
 
-  & .offcanvas {
-    background-color: transparent !important;
+  @media (min-width: 991px) {
+    & .offcanvas {
+      background-color: transparent !important;
+
+      & a.nav-link {
+        color: #fff;
+        text-shadow: 0 0 5px rgba(0,0,0,1);
+      }
+    }
   }
 }
 
@@ -84,6 +95,8 @@ $custom-btn-dark-color: #fff;
     margin-top: 5px;
   }
 }
+
+
 
 #logo-index {
   /*border: 6px solid #c06b4d;*/

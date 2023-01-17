@@ -5,6 +5,7 @@
 $font-family-sans-serif:      "Roboto Slab", "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-family-monospace:       Consolas,Menlo,Monaco,"Courier New",monospace;
 $font-family-base:            $font-family-sans-serif;
+$font-family-navbar:          "Josefin Sans", "Roboto Slab", "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 $font-size-base:              0.95rem; // Assumes the browser default, typically `16px`
 $font-size-xl:                $font-size-base * 1.375;
@@ -12,7 +13,7 @@ $font-size-lg:                $font-size-base * 1.25;
 $font-size-md:                $font-size-base * 1.125;
 $font-size-sm:                $font-size-base * 0.875;
 
-$headings-font-family:        "Josefin Sans", "Roboto Slab", "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$headings-font-family:        null;
 $headings-font-weight:        700;
 
 $lead-font-weight:            400;

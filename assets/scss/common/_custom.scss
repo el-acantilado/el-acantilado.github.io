@@ -98,6 +98,26 @@ $custom-btn-dark-color: #fff;
 }
 
 
+.blog-section {
+  margin-top: 1rem;
+
+  border-top: 1px solid #e1ddc9;
+}
+
+.footer {
+  border-color: #e1ddc9 !important;
+  border-top: 1px solid #e1ddc9;
+  border-bottom: 1px solid #e1ddc9;
+  background-color: rgba(0,0,0,0.025);
+}
+
+.utterances {
+  background-color: #3c3836ca;
+  border-radius: 8px;
+  border: 1px solid $custom-border-color;
+  padding: 0 20px 0 20px;
+}
+
 
 #logo-index {
   /*border: 6px solid #c06b4d;*/

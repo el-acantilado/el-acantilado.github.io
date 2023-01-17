@@ -15,3 +15,44 @@
 
 - id: browse
   translation: "Buscar"
+
+- id: posted-in
+  translation: "Publicado en"
+
+- id: stats
+  translation: "Estadísticas"
+
+- id: stats-text
+  translation: "Los contadores pueden diferir. Usamos servicios libres para contar las visitas pero no almacenamos ni compartimos información personal."
+
+- id: by
+  translation: "Por"
+- id: and
+  translation: "y"
+- id: of
+  translation: "de"
+
+- id: January
+  translation: Enero
+- id: February
+  translation: febrero
+- id: March
+  translation: Marzo
+- id: April
+  translation: Abril
+- id: May
+  translation: Mayo
+- id: June
+  translation: Junio
+- id: July
+  translation: Julio
+- id: August
+  translation: Agosto
+- id: September
+  translation: Septiembre
+- id: October
+  translation: Octubre
+- id: November
+  translation: Noviembre
+- id: December
+  translation: Diciembre

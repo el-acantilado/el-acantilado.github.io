@@ -1,0 +1,11 @@
+{{ if .Site.Params.comment.utterances.enable }}
+  <h3>Comentarios</h3>
+    <script src="https://utteranc.es/client.js"
+      repo="{{.Site.Params.comment.utterances.repo}}"
+      issue-term="{{ .Site.Params.comment.utterances.issueTerm}}"
+      label="{{ .Site.Params.comment.utterances.label}}"
+      theme="{{ .Site.Params.comment.utterances.theme}}"
+      crossorigin="{{ .Site.Params.comment.utterances.crossorigin}}"
+      async>
+    </script>
+{{ end }}

@@ -81,3 +81,13 @@ rel  = "sitemap"
     [[related.indices]]
     name = "date"
     weight = 10
+
+
+# Comments
+[params.comment.utterances]
+  enable = true
+  repo = "el-acantilado/discusiones"
+  issueTerm = "pathname"
+  label = "discussion"
+  theme = "gruvbox-dark"
+  crossorigin = "anonymous"

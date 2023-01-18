@@ -1,5 +1,5 @@
 {{ if .Site.Params.comment.utterances.enable }}
-  <h3>Comentarios</h3>
+  <h3>{{ i18n "comments" }}</h3>
     <script src="https://utteranc.es/client.js"
       repo="{{.Site.Params.comment.utterances.repo}}"
       issue-term="{{ .Site.Params.comment.utterances.issueTerm}}"

@@ -15,7 +15,7 @@
         <article>
           <h2 class="h3 mb-0"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
           <h3 class="h4 mt-0">{{ .Params.Subtitle }}</h3>
-          <p>{{ .Params.excerpt | safeHTML }}</p>
+          <p>{{ .Params.excerpt | markdownify }}</p>
           {{ partial "main/blog-meta.html" . -}}
         </article>
       </div>

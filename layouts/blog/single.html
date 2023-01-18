@@ -26,14 +26,20 @@
 </div>
 </article>
 
-<div class="text-center blog-section">
-  {{ partial "main/comments.html" . }}
-</div>
+<div class="row justify-content-center">
+  <div class="col-md-12 col-lg-9 blog-section">
+    {{ partial "main/comments.html" . }}
+  </div>
 
-<div class="text-center blog-section">
-  {{ partial "main/stats.html" . }}
-</div>
+  <div class="col-md-12 col-lg-9 blog-section">
+    {{ partial "main/stats.html" . }}
+  </div>
 
+  <div class="col-md-12 col-lg-9 small">
+    <h4>{{ i18n "license" }}</h4>
+    {{ .Params.License | markdownify}}
+  </div>
+</div>
 
 
 {{ $related := .Site.RegularPages.Related . | first 3 -}}
@@ -53,7 +59,7 @@
       <div class="card-body">
         <article>
           <h2 class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
-          <p>{{ .Params.excerpt | safeHTML }}</p>
+          <p>{{ .Params.excerpt | markdownify  }}</p>
           {{ partial "main/blog-meta.html" . -}}
         </article>
       </div>

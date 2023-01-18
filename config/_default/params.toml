@@ -64,7 +64,7 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "Nuestro <a href=\"https://github.com/el-acantilado\">código es libre</a>. Los contenidos bajo licencia <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">CC BY</a>. <br/> <p class=\"small\">Cuando se indique, los contenidos externos incluídos con copyright como imágenes o videos son propiedad de sus respectivos dueños y sólo son usados con fines informativos, educativos o críticos.</p>"
+footer = "Nuestro <a href=\"https://github.com/el-acantilado\"  target=\"_blank\">código es libre</a>. Los contenidos bajo licencia <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC BY</a>. <br/> <p class=\"small\">Cuando se indique, los contenidos externos incluídos con copyright como imágenes o videos son propiedad de sus respectivos dueños y sólo son usados con fines informativos, educativos o críticos.</p>"
 
 # Feed
 copyRight = "Copyright (c) 2020-2021 Henk Verlinde"

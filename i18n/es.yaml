@@ -25,6 +25,15 @@
 - id: stats-text
   translation: "Los contadores pueden diferir. Usamos servicios libres para contar las visitas pero no almacenamos ni compartimos información personal."
 
+- id: license
+  translation: "Licencia"
+
+- id: comments
+  translation: "Comentarios"
+
+- id: min-read
+  translation: "min de lectura"
+
 - id: by
   translation: "Por"
 - id: and

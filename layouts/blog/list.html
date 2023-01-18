@@ -13,8 +13,8 @@
       {{ partial "content/image.html" . }}
       <div class="card-body">
         <article>
-          <h2 class="h3 mb-0"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
-          <h3 class="h4 mt-0">{{ .Params.Subtitle }}</h3>
+          <h2 class="h3 mb-0 text-center"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
+          <h3 class="h4 mt-0 text-center">{{ .Params.Subtitle }}</h3>
           <p>{{ .Params.excerpt | markdownify }}</p>
           {{ partial "main/blog-meta.html" . -}}
         </article>

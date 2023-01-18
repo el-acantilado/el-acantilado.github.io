@@ -1,8 +1,8 @@
 ---
 title: "A quiénes pertenece el mundo y otros tipos de personas"
 subtitle: "Enseñanzas inesperadas del Mundodisco"
-description: "\"A William de Worde, editor accidental del primer periódico del **Mundodisco**, siempre le ha preocupado la **naturaleza de la verdad**. Sabe que se **esconde en lugares improbables y cuenta con sirvientes extraños**.\" *La Verdad, XXV novela del Mundodisco*."
-excerpt: A William de Worde, editor accidental del primer periódico del **Mundodisco**, siempre le ha preocupado la **naturaleza de la verdad**. Sabe que se **esconde en lugares improbables y cuenta con sirvientes extraños**.\" *La Verdad, XXV novela del Mundodisco*.
+description: "\"A William de Worde, editor accidental del primer periódico del Mundodisco, siempre le ha preocupado la naturaleza de la verdad. Sabe que se esconde en lugares improbables y cuenta con sirvientes extraños.\" La Verdad, XXV novela del Mundodisco."
+excerpt: \"A William de Worde, editor accidental del primer periódico del **Mundodisco**, siempre le ha preocupado la **naturaleza de la verdad**. Sabe que se **esconde en lugares improbables y cuenta con sirvientes extraños**.\" *La Verdad, XXV novela del Mundodisco*.
 url: "/blog/mundodisco-tipos-personas"
 date: 2022-01-18
 lastmod: 2022-01-18
@@ -32,16 +32,8 @@ Uno pensaría encontrar **sabiduría** en elegantes manuscritos ancestrales, no 
 
 Dicho esto, mientras leía el libro **La Verdad**, la XXV novela del **Mundodisco**, me topé con algunas inusitadas lecciones de sabiduría que me he sentido obligado a compartir con ustedes. Éste es el fragmento:
 
-> Se dice que hay dos tipos de personas en el mundo. Están aquellos que,
-cuando se les presenta un vaso que está exactamente medio lleno, dicen: este
-vaso está medio lleno. Y están aquellos que dicen: este vaso está medio vacío.
+> Se dice que hay dos tipos de personas en el mundo. Están aquellos que, cuando se les presenta un vaso que está exactamente medio lleno, dicen: este vaso está medio lleno. Y están aquellos que dicen: este vaso está medio vacío.
 
-> El mundo pertenece, sin embargo, a aquellos que pueden mirar el vaso y
-decir: « ¿Qué le pasa a este vaso? ¿Perdone? ¡Perdone! ¿Este es mi vaso? Me
-parece a mí que no. ¡Mi vaso estaba lleno! ¡Y era un vaso más grande!» .
+> El mundo pertenece, sin embargo, a aquellos que pueden mirar el vaso y decir: «¿Qué le pasa a este vaso? ¿Perdone? ¡Perdone! ¿Este es mi vaso? Me parece a mí que no. ¡Mi vaso estaba lleno! ¡Y era un vaso más grande!» .
 
-> Y en el otro extremo de la barra, el mundo está lleno del otro tipo de
-personas, las que tienen el vaso roto, o un vaso derribado por descuido
-(habitualmente por una de las personas que piden un vaso más grande), o las que
-ni siquiera tienen vaso, porque estaban al fondo de la muchedumbre y no han
-conseguido llamar la atención del barman.
+> Y en el otro extremo de la barra, el mundo está lleno del otro tipo de personas, las que tienen el vaso roto, o un vaso derribado por descuido (habitualmente por una de las personas que piden un vaso más grande), o las que ni siquiera tienen vaso, porque estaban al fondo de la muchedumbre y no han conseguido llamar la atención del barman.

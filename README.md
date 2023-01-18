@@ -4,6 +4,12 @@
 
 Publicado en: [el-acantilado.com](https://el-acantilado.com)
 
+## Pre-requisitos
+
+* Instalar Hugo.
+
+* Instalar NodeJS.
+
 ## Inicio rápido
 
 1. Clonar.

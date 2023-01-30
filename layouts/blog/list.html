@@ -10,7 +10,7 @@
   {{ range $paginator.Pages -}}
   <div class="col">
     <div class="card">
-      {{ partial "content/image.html" . }}
+      {{ partial "content/bg-image.html" . }}
       <div class="card-body">
         <article>
           <h2 class="h3 mb-0 text-center"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>

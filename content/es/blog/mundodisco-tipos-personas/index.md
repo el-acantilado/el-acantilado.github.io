@@ -4,8 +4,8 @@ subtitle: "Enseñanzas inesperadas del Mundodisco"
 description: "\"A William de Worde, editor accidental del primer periódico del Mundodisco, siempre le ha preocupado la naturaleza de la verdad. Sabe que se esconde en lugares improbables y cuenta con sirvientes extraños.\" La Verdad, XXV novela del Mundodisco."
 excerpt: \"A William de Worde, editor accidental del primer periódico del **Mundodisco**, siempre le ha preocupado la **naturaleza de la verdad**. Sabe que se **esconde en lugares improbables y cuenta con sirvientes extraños**.\" *La Verdad, XXV novela del Mundodisco*.
 url: "/blog/mundodisco-tipos-personas"
-date: 2022-01-18
-lastmod: 2022-01-18
+date: 2023-01-18
+lastmod: 2023-01-18
 draft: false
 weight: 50
 images: ['tipos-personas.jpg']

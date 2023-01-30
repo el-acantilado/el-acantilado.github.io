@@ -10,7 +10,7 @@ draft: false
 weight: 50
 images: ['revistas-disquetes.jpg']
 categories: ["Remembranzas"]
-tags: ["nostalgia", "revistas", "disquetes", "msdos"]
+tags: ["nostalgia", "juegos", "msdos"]
 contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false
@@ -47,25 +47,26 @@ Esas revistas eran como **publicaciones cuasi-mágicas**, hechas por personas ap
 
 ## Apéndice
 
-Para quiénes les interese, aquí comparto la [PC-Player número 5](https://drive.google.com/file/d/1WxqeVjEd4L4I7DgMPaCelcsXQryijPSf/view?usp=share_link) y algunos videos de las **demos** que contenia.
+Para quiénes les interese, aquí comparto la <a href="https://drive.google.com/file/d/1WxqeVjEd4L4I7DgMPaCelcsXQryijPSf/view?usp=share_link" target="_blank">PC-Player número 5</a> y algunos videos de las **demos** que contenia.
 
 ### Simon the Sorcerer 2
 #### Demo
 {{<youtube TfyiwFNYd3M >}}
 
-*  Aquí el gameplay completo _3PQnmcD_G8
+*  Por si te interesa, <a href="https://www.youtube.com/watch?v=_3PQnmcD_G8" target="_blank">Aquí el gameplay completo</a>.
 
-## Braindead 13
-### Demo (el video se ve muy pequeño, pero la calidad de animación es excelente)
+### Braindead 13
+#### Demo
+El video se ve muy pequeño, pero la calidad de animación es excelente.
 {{<youtube lGFyWbW8j0Q >}}
 
-*  Aquí el gameplay completo F3dVe6hNcXk
+*  Por si te interesa, <a href="https://www.youtube.com/watch?v=F3dVe6hNcXk" target="_blank">aquí el gameplay completo</a>.
 
-## Prisoner of Ice demo
-### Demo
+### Prisoner of Ice demo
+#### Demo
 {{<youtube G1-Csrc5mGg >}}
 
-* Aquí NPmZqqjvyB0
+*  Por si te interesa, <a href="https://www.youtube.com/watch?v=NPmZqqjvyB0" target="_blank">aquí el gameplay completo</a>.
 
-## Ultimate Soccer Manager
+### Ultimate Soccer Manager
 {{<youtube thR2_H_lQQI >}}

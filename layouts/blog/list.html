@@ -8,7 +8,7 @@
 <div class="row row-cols-1 row-cols-lg-2 g-lg-5">
   {{ $paginator := .Paginate (.Data.Pages) -}}
   {{ range $paginator.Pages -}}
-  <div class="col">
+  <div class="col d-flex align-items-stretch">
     <div class="card">
       {{ partial "content/bg-image.html" . }}
       <div class="card-body">

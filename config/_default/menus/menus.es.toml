@@ -34,10 +34,10 @@
   identifier = "lorem"
   url = "/tutorial/lorem/"
 
-#[[main]]
-#  name = "Docs"
-#  url = "/docs/start/introduction/"
-#  weight = 10
+[[main]]
+  name = "Minipedia"
+  url = "/docs/intro/intro"
+  weight = 10
 
 # [[main]]
 #   name = "Tutorial"

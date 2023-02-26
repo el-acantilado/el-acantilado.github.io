@@ -74,7 +74,7 @@ Pulcro, elegante.
 Mirar, observar con cuidado, recatadamente.
 
 ### Atónito
-Pásmado, abosorto.
+Pasmado, absorto.
 
 ### Aterir **
 Pasmar de frío
@@ -90,7 +90,7 @@ Un atolón es una isla coralina oceánica, por lo general con forma de anillo m�
 Rechazo o repugnancia frente a alguien o algo.
 
 ### Bauprés ***
-Palo grueso, horizontal o algo inclinado, que en la proa de los barcos sirvce para asgurar los estayes del trinquete.
+Palo grueso, horizontal o algo inclinado, que en la proa de los barcos sirve para asegurar los estayes del trinquete.
 
 ### Bergantín **
 Buque de dos palos y vela cuadrada o redonda.
@@ -137,7 +137,7 @@ Producir sonidos repetidos, rápidos y secos, como el de la sal en el fuego.
 ### Denuedo **
 Brío, intrepidez.
 
-### Desacompasada **
+### Desacompasado **
 Referido a persona o cosa, descomedida, desproporcionada.
 
 ### Desmadejado **
@@ -191,7 +191,7 @@ Examinar, inquirir y averiguar cuidadosamente algo y sus circunstancias.
 * Columna que forma el eje de una escalera de caracol.
 
 ### Esteta ***
-Persona que considera el arte como valor escencial.
+Persona que considera el arte como valor esencial.
 
 ### Estólido *
 Falto de razón y discurso.
@@ -346,7 +346,7 @@ Macizo de tierra con que se rellena un hueco, o que se levanta para hacer una de
 
 ### Trémulo *
 
-Que tiembla. *Voz tremula*
+Que tiembla. *Voz trémula*
 
 ### Vetusto *
 Viejo.

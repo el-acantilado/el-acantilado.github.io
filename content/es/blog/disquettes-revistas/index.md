@@ -23,7 +23,7 @@ license:  "* Comparte libremente: este artículo está bajo licencia <a href=\"h
 
 Hoy viajaremos en el pasado hasta el cada vez más lejano, 1991. Internet era apenas un lugar oscuro y sumamente lento en el primer mundo, y en suramérica ni siquiera sabíamos de su existencia. **Conseguir cualquier programa o juego era infinitamente más complicado**.
 
-![Disquetes](https://scontent.fpei3-1.fna.fbcdn.net/v/t39.30808-6/328244137_577867047217993_6200184872001593558_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeE1kxAf5tcCr3uo967loxv4VUCo178X21dVQKjXvxfbVwGUYNsZgDZiDi3_6y8VDgU&_nc_ohc=JZUfQDMROTEAX-NXXrX&_nc_ht=scontent.fpei3-1.fna&oh=00_AfDugQyxGkSXkM_zlFCUmfY_y2Y3TMOP0VS3DjmbRl8AUA&oe=63DC58AC)***Indiana Jones y La última cruzada**: La edición original traía varios cachivaches, incluído el diario de Henry Jones.*
+![Indiana Jones y La última Cruzada disquetes](indy.jpg)***Indiana Jones y La última cruzada**: La edición original traía varios cachivaches, incluído el diario de Henry Jones.*
 
 Por su parte los originales, estaban fuera del alcance debido a sus precios exhorbitantes. Recuerdo estar muchas veces en los supermercados (de la ciudad más cercana al pueblo donde viviamos), con mi hermano mirando todas las cajas de juegos y soñando con algún día poder comprar aunque fuera uno de ellos.
 

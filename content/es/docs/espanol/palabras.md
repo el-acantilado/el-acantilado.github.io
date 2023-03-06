@@ -7,10 +7,11 @@ images: []
 menu:
   docs:
     parent: "espanol"
-weight: 100
+weight: 101
 toc: true
 ---
 
+> "Las palabras se parecen a peces en el hecho de que algunos que se especializan pueden sobrevivir solamente en un tipo determinado de arrecifes, **donde sus curiosas formas y usos quedan protegidos del bullicio de alta mar.** «Trifulca» y «altercado» solamente se encuentran en ciertos periódicos (de la misma manera que la palabra «refrigerios» solamente se encuentra en ciertos menús). Nunca se usan en la conversación normal." -**Terry Pratchet**. La Verdad, XXV novela del Mundodisco.
 
 ## Clasificación
 
@@ -30,6 +31,10 @@ Mejorar, enriquecer, enaltecer.
 ### Acrópolis **
 Recinto fortificado en la parte más alta de las antiguas ciudades griegas.
 
+### Afín
+
+Parecido, similar.
+
 ### Alevín ***
 
 * Cría de pez.
@@ -46,6 +51,10 @@ Embarcación formada por troncos o maderos unidos.
 ### Amoladera ***
 
 Asperón: Arenisca de cemento silíceo o arcilloso, que se emplea en los usos generales de construcción y también, cuando es de grano fino y uniforme, en piedras de amolar y para usos de limpieza doméstica.
+
+### Análogo
+
+Que tiene analogía o similitud con una cosa.
 
 ### Apiñar *
 
@@ -85,6 +94,18 @@ Un atolón es una isla coralina oceánica, por lo general con forma de anillo m�
 ### Atracón *
 * Exceso en una actividad cualquiera.
 * Altercado, riña.
+
+### Aunar
+
+Unir, armonizar o poner de acuerdo cosas o personas distintas para contribuir a una causa común o para conseguir un fin determinado.
+
+### Aupar *
+
+Levantar o subir algo o a alguien con los brazos. Conceder grandeza, honor o más valor a una persona o cosa.
+
+### Autarquía
+
+Del gr. *αὐταρχία* autarchía 'poder absoluto'. Dominio de sí mismo. Autosuficiencia. Política de un Estado que intenta bastarse con sus propios recursos.
 
 ### Aversión
 Rechazo o repugnancia frente a alguien o algo.
@@ -142,6 +163,10 @@ Referido a persona o cosa, descomedida, desproporcionada.
 
 ### Desmadejado **
 Dicho de una persona: Que se siente con flojedad o quebrantamiento en el cuerpo.
+
+### Desiderátum ***
+
+Deseo o aspiración que aún no se ha cumplido.
 
 ### Desván
  Parte más alta de la casa, situada inmediatamente debajo del tejado y carente de falso techo, que se destina especialmente a guardar objetos en desuso.
@@ -231,6 +256,10 @@ Impulsar.
 ### Indeleble
 Que no se puede borrar o quitar.
 
+### Iniquidad ***
+
+Injusticia o gran maldad en el modo de obrar.
+
 ### Intentona *
 Intento temerario, especialmente si se ha frustrado.
 
@@ -255,6 +284,10 @@ Flaco y descolorido.
 ### Mácula **
 Mancha, engaño.
 
+### Mitógrafo ***
+
+La mitografía es el estudio de mitos y leyendas antiguas que conforman las mitologías; podría decirse que un mitógrafo es un «coleccionista de mitos».
+
 ### Mustio **
 Melancólico, triste
 
@@ -264,15 +297,20 @@ Más largo que ancho.
 ### Ominoso *
 Abominable, despreciable.
 
-### Parrafada **
-* Conversación detenida y confidencial.
-* Trozo largo y pesado de charla o conversación.
-
 ### Paladear ***
 Tomar poco a poco el gusto de algo.
 
 ### Palmatoria ***
 Especie de candelero bajo, con mango y pie, generalmente de forma de platillo.
+
+### Panegírico ***
+
+Discurso en el que se alaba a alguien, especialmente el que se hace en honor a un santo.
+"en el siglo IV la literatura hispanocristiana contó con cultivadores ilustres, como el papa san Dámaso, autor de panegíricos de santos y mártires"
+
+### Parrafada **
+* Conversación detenida y confidencial.
+* Trozo largo y pesado de charla o conversación.
 
 ### Pendía
 * Estar colgada, suspendida o inclinada.
@@ -293,6 +331,14 @@ De piedra
 
 ### Porteador *
 Que Conduce o lleva algo de una parte a otra por el porte o precio convenido o señalado.
+
+### Proeza
+
+Acción de gran esfuerzo y valor.
+
+### Profiláctico **
+
+Que sirve para preservar o proteger de una enfermedad o un mal.
 
 ### Prosaico *
 Vulgar. Que no tiene gracia o ingenio.
@@ -317,6 +363,14 @@ Dejar pasar a través de sus poros o rendijas.
 
 ### Sabañón **
 Hinchazón o ulceración de la piel, principalmente de las manos, los pies y las orejas, que es causada por frío excesivo y produce ardor y picazón.
+
+### Sátira
+
+La sátira es el arte de hacerle ridículo a alguien o algo, provocando la risa para avergonzar, humillar o desacreditarlo.
+
+### Sempiterno
+
+Que durará siempre, que no tendrá fin. "vida sempiterna".
 
 ### Sendos ***
 Establece una relación de uno a uno entre los miembros de un conjunto de dos o más cosas o personas y los de otro conjunto de cosas o personas denotadas por el nombre al cual acompaña. *ambas películas están basadas en sendos relatos de Terry Pratchet*.
@@ -347,6 +401,10 @@ Macizo de tierra con que se rellena un hueco, o que se levanta para hacer una de
 ### Trémulo *
 
 Que tiembla. *Voz trémula*
+
+### Volición ***
+
+Volición es, en un sentido general, un acto de la voluntad o una acción voluntaria.​ Lo volitivo es lo relativo a la volición o voluntad.
 
 ### Vetusto *
 Viejo.

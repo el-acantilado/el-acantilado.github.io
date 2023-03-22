@@ -40,6 +40,10 @@ Parecido, similar.
 * Cría de pez.
 * Joven principiante que se inicia en una disciplina o profesión.
 
+### Alegoría *
+
+Ficción en virtud de la cual un relato o una imagen representan o significan otra cosa diferente.
+
 ### Alforja *
 
 Provisión de los comestibles necesarios para el camino.
@@ -200,6 +204,10 @@ Elaborar una divagación complicada
 * Cerrar los ojos de manera incompleta.
 * Inclinar, ladear, trastornar.
 
+### Escabullir
+* Huir de una dificultad con sutileza.
+* Eludir la fuerza de las razones contrarias.
+
 ### Escarpadas *
 Dicho de una altura: Que no tiene subida ni bajada transitable o la tiene muy áspera y peligrosa.
 
@@ -283,6 +291,10 @@ Flaco y descolorido.
 
 ### Mácula **
 Mancha, engaño.
+
+### Maniqueísmo *
+
+Tendencia a reducir la realidad a una oposición radical entre lo bueno y lo malo.
 
 ### Mitógrafo ***
 
@@ -402,12 +414,16 @@ Macizo de tierra con que se rellena un hueco, o que se levanta para hacer una de
 
 Que tiembla. *Voz trémula*
 
-### Volición ***
+### Vejar
 
-Volición es, en un sentido general, un acto de la voluntad o una acción voluntaria.​ Lo volitivo es lo relativo a la volición o voluntad.
+Maltratar a un persona o hacerla pasar por una situación humillante o vergonzosa.
 
 ### Vetusto *
 Viejo.
+
+### Volición ***
+
+Volición es, en un sentido general, un acto de la voluntad o una acción voluntaria.​ Lo volitivo es lo relativo a la volición o voluntad.
 
 ### Zozobrante *
 * Dicho de una embarcación: Peligrar por la fuerza y contraste de los vientos.

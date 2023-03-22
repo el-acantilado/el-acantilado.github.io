@@ -9,14 +9,14 @@ lastmod: 2023-02-05
 draft: false
 weight: 50
 images: ['valor-promesa.jpg']
-categories: ["Películas"]
+categories: ["Reflexiones"]
 tags: ["peliculas", "libertad", "opresión"]
 contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false
 license:  "* Comparte libremente: este artículo está bajo licencia <a href=\"http://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CCBY</a>.
 
-* Las imagenes, videos y otros contenidos son usados sólo con fines informativos/educativos y son propiedad de sus respectivos dueños."
+* Las imágenes, videos y otros contenidos son usados sólo con fines informativos/educativos y son propiedad de sus respectivos dueños."
 ---
 
 > "Ustedes lo encierran lo llenan de medicinas agujas y quien sabe que más lo maltratan y no hay discusión. **Soy su padre**. **Tan solo quiero verlo decirle hola**... y eso no." *Elmer Jackson*, pidiendo ver a su hijo.

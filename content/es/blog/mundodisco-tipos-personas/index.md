@@ -9,7 +9,7 @@ lastmod: 2023-01-18
 draft: false
 weight: 50
 images: ['tipos-personas.jpg']
-categories: ["Remembranzas"]
+categories: ["Reflexiones"]
 tags: ["enseñanzas", "mundodisco"]
 contributors: ["Daniel Cañizares"]
 pinned: false

@@ -7,7 +7,7 @@ images: []
 menu:
   docs:
     parent: "start"
-weight: 100
+weight: 2
 toc: true
 ---
 

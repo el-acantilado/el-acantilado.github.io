@@ -35,6 +35,10 @@ Recinto fortificado en la parte más alta de las antiguas ciudades griegas.
 
 Parecido, similar.
 
+### Alborozadamente
+
+Con extraordinario regocijo o alegría. Extraordinario desorden.
+
 ### Alevín ***
 
 * Cría de pez.
@@ -43,6 +47,9 @@ Parecido, similar.
 ### Alegoría *
 
 Ficción en virtud de la cual un relato o una imagen representan o significan otra cosa diferente.
+
+### Alfarero *
+Persona que tiene por arte u oficio hacer vasijas u otros objetos de barro cocido.
 
 ### Alforja *
 
@@ -152,6 +159,9 @@ Receptáculo pequeño que llevan algunos objetos, como el palo del boliche, el d
 ### Ciclópea ***
 Dicho de ciertas construcciones antiquísimas que se distinguen por el enorme tamaño de sus piedras, unidas por lo común sin argamasa.
 
+### Coetaneo *
+De la misma edad.
+
 ### Crepitar *
 Producir sonidos repetidos, rápidos y secos, como el de la sal en el fuego.
 
@@ -189,11 +199,17 @@ Que produce desconcierto o perplejidad.
 ### Efluvio ***
 Emisión de partículas sutilísimas.
 
+### Égida *
+Escudo. Protección, defensa.
+
 ### Ejote ***
 Vaina del frijol cuando está tierna.
 
 ### Elucubrar **
 Elaborar una divagación complicada
+
+### Emanciparse
+Liberarse de cualquier clase de subordinación o dependencia.
 
 ### Emboscadura *
 * Acción de emboscar o emboscarse.
@@ -232,6 +248,9 @@ Falto de razón y discurso.
 ### Estrépito
 Ruido considerable.
 
+### Eupátridas ***
+En griego antiguo: eupatrídai, «los bien nacidos» o «de buenos padres». Es el término que designa a la aristocracia o antigua nobleza de la región griega del Ática.
+
 ### Execración **
 Perdida del carácter sagrado de un lugar
 
@@ -247,8 +266,17 @@ Lenguaje oscuro por la confusión de ideas
 ### Hendidura *
 Corte en una superficie o en un cuerpo sólido cuando no llega a dividirlos del todo.
 
+### Hidromiel *
+Agua mezclada con miel.
+
+### Hoplita **
+Soldado griego de infantería que usaba armas pesadas.
+
 ### Horcajadas *
 *A horcajadas*. Dicho de montar, cabalgar o sentarse: Con una pierna a cada lado de la caballería, persona o cosa sobre la que se está.
+
+### Ibid
+La abreviatura ibid. hace referencia a la cita inmediatamente anterior, significando que ambas citas tratan del mismo autor y del mismo libro
 
 ### Ignoto ***
 Que no se conoce o no ha sido descubierto.
@@ -280,8 +308,14 @@ Lados que sostienen el dintel de una puerta.
 ### Lacustre *
 Relativo a los lagos
 
+### Laudo **
+Decisión o fallo dictado por los árbitros o amigables componedores, que pone fin al procedimiento arbitral.
+
 ### Lisonjear ***
 Deleitar, agradar.
+
+### Lisonjeadores
+Que agrada y deleita. Música, voz lisonjera.
 
 ### Lóbrego **
 Oscuro, tenebroso. Triste melancólico.
@@ -300,11 +334,18 @@ Tendencia a reducir la realidad a una oposición radical entre lo bueno y lo mal
 
 La mitografía es el estudio de mitos y leyendas antiguas que conforman las mitologías; podría decirse que un mitógrafo es un «coleccionista de mitos».
 
+### Mojón **
+* Señal permanente que se pone para fijar los linderos de heredades, términos y fronteras.
+* Porción compacta de excremento.
+
 ### Mustio **
 Melancólico, triste
 
 ### Oblongo *
 Más largo que ancho.
+
+### Olivarero *
+Que se dedica al cultivo del olivo.
 
 ### Ominoso *
 Abominable, despreciable.
@@ -314,6 +355,9 @@ Tomar poco a poco el gusto de algo.
 
 ### Palmatoria ***
 Especie de candelero bajo, con mango y pie, generalmente de forma de platillo.
+
+### Patricio *
+Dicho de una persona: Que pertenece a la clase social alta.
 
 ### Panegírico ***
 
@@ -420,6 +464,9 @@ Maltratar a un persona o hacerla pasar por una situación humillante o vergonzos
 
 ### Vetusto *
 Viejo.
+
+### Viticultores *
+Persona que se dedica al cultivo de la vid.
 
 ### Volición ***
 

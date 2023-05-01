@@ -31,9 +31,15 @@ Mejorar, enriquecer, enaltecer.
 ### Acrópolis **
 Recinto fortificado en la parte más alta de las antiguas ciudades griegas.
 
+### Acuciante ***
+Apremiante, urgente.
+
 ### Afín
 
 Parecido, similar.
+
+### Ágrafo **
+Que es incapaz de escribir o no sabe hacerlo.
 
 ### Alborozadamente
 
@@ -59,6 +65,9 @@ Provisión de los comestibles necesarios para el camino.
 
 Embarcación formada por troncos o maderos unidos.
 
+### Altricial ***
+En zoología, las crías altriciales son aquellas que nacen ciegas, sin los conductos auditivos abiertos, prácticamente sin pelo o plumas y con una movilidad muy limitada.
+
 ### Amoladera ***
 
 Asperón: Arenisca de cemento silíceo o arcilloso, que se emplea en los usos generales de construcción y también, cuando es de grano fino y uniforme, en piedras de amolar y para usos de limpieza doméstica.
@@ -66,6 +75,20 @@ Asperón: Arenisca de cemento silíceo o arcilloso, que se emplea en los usos ge
 ### Análogo
 
 Que tiene analogía o similitud con una cosa.
+
+### Anona ***
+Provisión de víveres.
+
+### Aparcería ***
+Trato o convenio de quienes van a la parte en una granjería.
+
+### Aparceros ***
+* Persona que tiene aparcería con otra u otras.
+* Comunero en una heredad o hacienda.
+* En algunas partes compañero, amigo.
+
+### Apero **
+Conjunto de instrumentos y herramientas de un oficio.
 
 ### Apiñar *
 
@@ -79,13 +102,18 @@ Que apremia.
 * Cuidado que una persona tiene de no cometer abusos o faltas de consideración. SINÓNIMO:  escrúpulo
 * Recelo de ponerse una persona en contacto con otra o con una cosa que pueda ser perjudicial o peligrosa para él. EJEMPLO:  los leprosos no le daban ninguna aprensión.
 
+### Arbitrio
+* Facultad que tiene el ser humano de adoptar una resolución con preferencia a otra.
+* Voluntad no gobernada por la razón, sino por el apetito o capricho.
+* Sentencia o laudo de un procedimiento arbitral.
+
+### Arracimar *
+Unirse o juntarse en forma de racimo.
+
 ### Asidero *
 
 * Parte por donde se ase algo.
 * Ocasión o pretexto.
-
-### Arracimar *
-Unirse o juntarse en forma de racimo.
 
 ### Atildado *
 Pulcro, elegante.
@@ -120,6 +148,9 @@ Del gr. *αὐταρχία* autarchía 'poder absoluto'. Dominio de sí mismo. 
 
 ### Aversión
 Rechazo o repugnancia frente a alguien o algo.
+
+### Baldón ***
+Injuria o afrenta.
 
 ### Bauprés ***
 Palo grueso, horizontal o algo inclinado, que en la proa de los barcos sirve para asegurar los estayes del trinquete.
@@ -156,11 +187,21 @@ Receptáculo pequeño que llevan algunos objetos, como el palo del boliche, el d
 * Viento del oeste.
 * Tela de algodón casi transparente y de colores variados.
 
+### Chabolismo **
+Abundancia de chabolas (vivienda de escasas proporciones y pobre construcción) en los suburbios de las grandes ciudades.
+
 ### Ciclópea ***
 Dicho de ciertas construcciones antiquísimas que se distinguen por el enorme tamaño de sus piedras, unidas por lo común sin argamasa.
 
 ### Coetaneo *
 De la misma edad.
+
+### Concupiscencia **
+En la moral católica, deseo de bienes terrenos y, en especial, apetito desordenado de placeres deshonestos.
+
+### Consuetudinario ***
+* Que es de costumbre.
+* Habitual o reincidente.
 
 ### Crepitar *
 Producir sonidos repetidos, rápidos y secos, como el de la sal en el fuego.
@@ -191,6 +232,9 @@ Aflojar, desunir y desconcertar las partes de algo que estaban y debían estar u
 ### Desconcertante
 Que produce desconcierto o perplejidad.
 
+### Detentar *
+Retener y ejercer ilegítimamente algún poder o cargo público. Retener lo que manifiestamente no le pertenece.
+
 ### Discurría
 * Pensar o imaginar algo.
 * Moverse avanzando por un lugar.
@@ -215,10 +259,16 @@ Liberarse de cualquier clase de subordinación o dependencia.
 * Acción de emboscar o emboscarse.
 * Lugar que sirve para emboscar o emboscarse.
 
+### Empréstito ***
+Préstamo que toma el Estado o una corporación o empresa, especialmente cuando está representado por títulos negociables o al portador.
+
 ### Entornar *
 * Volver la puerta o la ventana sin cerrarla del todo.
 * Cerrar los ojos de manera incompleta.
 * Inclinar, ladear, trastornar.
+
+### Erial ***
+Dicho de una tierra o de un campo: Sin cultivar ni labrar.
 
 ### Escabullir
 * Huir de una dificultad con sutileza.
@@ -226,6 +276,9 @@ Liberarse de cualquier clase de subordinación o dependencia.
 
 ### Escarpadas *
 Dicho de una altura: Que no tiene subida ni bajada transitable o la tiene muy áspera y peligrosa.
+
+### Escindir **
+Cortar, dividir, separar.
 
 ### Escudriñar
 Examinar, inquirir y averiguar cuidadosamente algo y sus circunstancias.
@@ -254,8 +307,14 @@ En griego antiguo: eupatrídai, «los bien nacidos» o «de buenos padres». Es 
 ### Execración **
 Perdida del carácter sagrado de un lugar
 
+### Exiguo **
+Insuficiente, escaso.
+
 ### Fardo ***
 Lío grande de ropa u otra cosa, apretado para poder llevarlo de una parte a otra.
+
+### Fratricidio **
+Muerte dada por alguien a su propio hermano.
 
 ### Fulcro ***
 Punto de apoyo de la palanca.
@@ -292,6 +351,13 @@ Impulsar.
 ### Indeleble
 Que no se puede borrar o quitar.
 
+### Infamante ***
+Que causa deshonra.
+
+### Influjo **
+* Acción y efecto de influir.
+* Flujo de la marea.
+
 ### Iniquidad ***
 
 Injusticia o gran maldad en el modo de obrar.
@@ -301,6 +367,9 @@ Intento temerario, especialmente si se ha frustrado.
 
 ### Iridiscente *
 Que muestra o refleja los colores del arco iris.
+
+### Isonomía **
+Igualdad ante la ley.
 
 ### Jamba ***
 Lados que sostienen el dintel de una puerta.
@@ -330,9 +399,26 @@ Mancha, engaño.
 
 Tendencia a reducir la realidad a una oposición radical entre lo bueno y lo malo.
 
+### Manumitir ***
+Dar libertad a un esclavo.
+
+### Marasmo ***
+Suspensión, paralización, inmovilidad, en lo moral o en lo físico.
+
+### Medra ***
+Aumento, mejora, adelantamiento o progreso de algo.
+
+### Minifundio
+* Finca rústica que, por su reducida extensión, no puede ser objeto por sí misma de cultivo en condiciones remuneradoras.
+* División de la propiedad rural en fincas muy pequeñas.
+
 ### Mitógrafo ***
 
 La mitografía es el estudio de mitos y leyendas antiguas que conforman las mitologías; podría decirse que un mitógrafo es un «coleccionista de mitos».
+
+### Molicie ***
+* Blandura de las cosas al tacto.
+* Abandono invencible al placer de los sentidos o a una grata pereza.
 
 ### Mojón **
 * Señal permanente que se pone para fijar los linderos de heredades, términos y fronteras.
@@ -350,8 +436,16 @@ Que se dedica al cultivo del olivo.
 ### Ominoso *
 Abominable, despreciable.
 
+### Pábulo ***
+* Alimento que se toma para subsistir.
+* Aquello que sirve para mantener la existencia de algunas cosas o acciones.
+* **Dar pábulo**: echar leña al fuego.
+
 ### Paladear ***
 Tomar poco a poco el gusto de algo.
+
+### Palmario **
+Claro, patente, manifiesto.
 
 ### Palmatoria ***
 Especie de candelero bajo, con mango y pie, generalmente de forma de platillo.
@@ -372,6 +466,9 @@ Discurso en el que se alaba a alguien, especialmente el que se hace en honor a u
 * Estar colgada, suspendida o inclinada.
 * Estar subordinado a alguien o algo.
 
+### Periplo ***
+Viaje largo o recorrido, por lo común con regreso al punto de partida.
+
 ### Perorata *
 Discurso pesado y sin sustancia
 
@@ -381,12 +478,19 @@ Parte del calzón o pantalón que cubre cada pierna.
 ### Pétreo
 De piedra
 
+### Pléyade **
+Grupo de personas famosas, especialmente en las letras, que viven en la misma época.
+
 ### Plúmbeo *
 * De plomo.
 * Muy aburrido o pesado.
 
 ### Porteador *
 Que Conduce o lleva algo de una parte a otra por el porte o precio convenido o señalado.
+
+### Prodigalidad ***
+* Profusión, desperdicio, consumo de la propia hacienda, gastando excesivamente.
+* Abundancia o multitud.
 
 ### Proeza
 
@@ -396,11 +500,17 @@ Acción de gran esfuerzo y valor.
 
 Que sirve para preservar o proteger de una enfermedad o un mal.
 
+### Prorrumpir **
+Salir algo con ímpetu.
+
 ### Prosaico *
 Vulgar. Que no tiene gracia o ingenio.
 
 ### Raudo *
 Rápido, violento, precipitado.
+
+### Reciedumbre ***
+Fuerza, fortaleza o vigor.
 
 ### Reluctancia **
 Resistencia que ofrece un circuito al flujo magnético.
@@ -458,9 +568,17 @@ Macizo de tierra con que se rellena un hueco, o que se levanta para hacer una de
 
 Que tiembla. *Voz trémula*
 
+### Veleidad ***
+* Voluntad antojadiza o deseo vano.
+* Inconstancia, ligereza.
+
 ### Vejar
 
 Maltratar a un persona o hacerla pasar por una situación humillante o vergonzosa.
+
+### Venablo ***
+* Dardo o lanza corta y arrojadiza.
+* **echar alguien venablos**: Prorrumpir en expresiones de cólera y enojo.
 
 ### Vetusto *
 Viejo.

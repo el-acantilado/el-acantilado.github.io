@@ -171,6 +171,9 @@ Lecho pobre y sin aliño.
 * Mueble para sentarse o recostarse, en forma de banco, con el asiento y el respaldo acolchados.
 * Porción de pan o de hojaldre cubierta con una pequeña cantidad de comida que se suele servir como aperitivo.
 
+### Capeado **
+Eludir con habilidad un compromiso o una situación difícil.
+
 ### Capitel ***
 Parte superior de una columna.
 
@@ -558,6 +561,9 @@ Denominación que se da a diversas doctrinas religiosas y místicas, que creen e
 
 ### Terraplén ***
 Macizo de tierra con que se rellena un hueco, o que se levanta para hacer una defensa, un camino u otra obra semejante.
+
+### Tesitura *
+Circunstancia, situación o coyuntura.
 
 ### Titubear
 * Oscilar, perdiendo la estabilidad y firmeza.

@@ -42,10 +42,6 @@ $custom-btn-dark-color: #fff;
     position: absolute;
     max-height: 35px !important;
   }
-
-  & > span {
-    padding-left: 45px;
-  }
 }
 
 ::selection {
@@ -97,6 +93,9 @@ $custom-btn-dark-color: #fff;
   }
 }
 
+.card-body {
+  padding: 1rem 1rem !important;
+}
 
 .blog-section {
   margin-top: 1rem;

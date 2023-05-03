@@ -7,6 +7,14 @@ body, p , blockquote {
   line-height: 1.9em;
   letter-spacing: 0.01em;
 }
+
+.card {
+  p, blockquote {
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+  }
+}
+
 p, blockquote {
   margin-top: 2rem;
   margin-bottom: 2rem;

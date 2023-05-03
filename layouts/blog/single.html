@@ -52,15 +52,18 @@
 </div>
 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-lg-5">
   {{ range . -}}
-  <div class="col">
+  <div class="col d-flex">
     <div class="card">
       {{ partial "content/bg-image.html" . }}
       <div class="card-body">
         <article>
           <h2 class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
           <p>{{ .Params.excerpt | markdownify  }}</p>
-          {{ partial "main/blog-meta.html" . -}}
         </article>
+
+      </div>
+      <div class="card-body card-footer">
+        {{ partial "main/blog-meta.html" . -}}
       </div>
     </div>
   </div>

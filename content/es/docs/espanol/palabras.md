@@ -402,6 +402,9 @@ Que agrada y deleita. Música, voz lisonjera.
 ### Lóbrego **
 Oscuro, tenebroso. Triste melancólico.
 
+### Luctuoso **
+Triste, fúnebre y digno de llanto. Que produce o conlleva tristeza, dolor o luto.
+
 ### Macilento ***
 Flaco y descolorido.
 

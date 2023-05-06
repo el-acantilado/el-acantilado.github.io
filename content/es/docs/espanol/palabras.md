@@ -76,6 +76,10 @@ Asperón: Arenisca de cemento silíceo o arcilloso, que se emplea en los usos ge
 
 Que tiene analogía o similitud con una cosa.
 
+### Anodino ***
+* Que es insustancial o que carece de interés o importancia.
+* [medicamento, sustancia] Que mitiga o calma el dolor.
+
 ### Anona ***
 Provisión de víveres.
 
@@ -109,6 +113,9 @@ Que apremia.
 
 ### Arracimar *
 Unirse o juntarse en forma de racimo.
+
+### Ascética ***
+Se llama de este modo a la existencia marcada por la austeridad, el rechazo del materialismo y la búsqueda de una elevación espiritual.
 
 ### Asidero *
 
@@ -148,6 +155,9 @@ Del gr. *αὐταρχία* autarchía 'poder absoluto'. Dominio de sí mismo. 
 
 ### Aversión
 Rechazo o repugnancia frente a alguien o algo.
+
+### Bajamar
+Marea baja o bajamar: Momento opuesto, en que el mar alcanza su menor altura.
 
 ### Baldón ***
 Injuria o afrenta.
@@ -411,9 +421,12 @@ Suspensión, paralización, inmovilidad, en lo moral o en lo físico.
 ### Medra ***
 Aumento, mejora, adelantamiento o progreso de algo.
 
-### Minifundio
+### Minifundio **
 * Finca rústica que, por su reducida extensión, no puede ser objeto por sí misma de cultivo en condiciones remuneradoras.
 * División de la propiedad rural en fincas muy pequeñas.
+
+### Misántropo *
+El que, debido a su carácter melancólico, odia a los hombres o siente aversión al trato humano.
 
 ### Mitógrafo ***
 
@@ -480,6 +493,9 @@ Parte del calzón o pantalón que cubre cada pierna.
 
 ### Pétreo
 De piedra
+
+### Pleamar **
+Marea alta o pleamar: Momento en que el agua del mar alcanza su máxima altura dentro del ciclo de las mareas.
 
 ### Pléyade **
 Grupo de personas famosas, especialmente en las letras, que viven en la misma época.

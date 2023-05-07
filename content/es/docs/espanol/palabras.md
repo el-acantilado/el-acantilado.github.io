@@ -19,6 +19,14 @@ Palabras marcadas con * (asteriscos) indica que son raras. A más asteriscos má
 
 ## Listado
 
+### Ablución **
+
+* Acción de lavar o lavarse.
+* Purificación ritual por medio de agua que se hace antes de la oración en ciertas religiones.
+
+### Acendrado **
+Dicho de algo como una cualidad, una conducta, etc.: Puro y sin mancha ni defecto.
+
 ### Acrecentar
 
 Mejorar, enriquecer, enaltecer.
@@ -57,6 +65,9 @@ Ficción en virtud de la cual un relato o una imagen representan o significan ot
 ### Alfarero *
 Persona que tiene por arte u oficio hacer vasijas u otros objetos de barro cocido.
 
+### Aljibe ***
+Depósito grande, generalmente bajo tierra, para recoger y conservar el agua, especialmente de lluvia.
+
 ### Alforja *
 
 Provisión de los comestibles necesarios para el camino.
@@ -64,6 +75,9 @@ Provisión de los comestibles necesarios para el camino.
 ### Almadía **
 
 Embarcación formada por troncos o maderos unidos.
+
+### Almocafre ***
+Instrumento que sirve para escardar y limpiar la tierra de malas hierbas, y para trasplantar plantas pequeñas.
 
 ### Altricial ***
 En zoología, las crías altriciales son aquellas que nacen ciegas, sin los conductos auditivos abiertos, prácticamente sin pelo o plumas y con una movilidad muy limitada.
@@ -155,6 +169,9 @@ Del gr. *αὐταρχία* autarchía 'poder absoluto'. Dominio de sí mismo. 
 
 ### Aversión
 Rechazo o repugnancia frente a alguien o algo.
+
+### Azadilla **
+Instrumento que sirve para escardar y limpiar la tierra de malas hierbas, y para trasplantar plantas pequeñas.
 
 ### Bajamar
 Marea baja o bajamar: Momento opuesto, en que el mar alcanza su menor altura.
@@ -510,6 +527,9 @@ Grupo de personas famosas, especialmente en las letras, que viven en la misma é
 ### Porteador *
 Que Conduce o lleva algo de una parte a otra por el porte o precio convenido o señalado.
 
+### Preconizar ***
+Defender o apoyar desde el primer momento una cosa que se considera buena o recomendable.
+
 ### Prodigalidad ***
 * Profusión, desperdicio, consumo de la propia hacienda, gastando excesivamente.
 * Abundancia o multitud.
@@ -527,6 +547,10 @@ Salir algo con ímpetu.
 
 ### Prosaico *
 Vulgar. Que no tiene gracia o ingenio.
+
+### Quintaesencia **
+* Lo más puro, fino y acendrado de una cosa.
+* Última esencia o extracto de algo.
 
 ### Raudo *
 Rápido, violento, precipitado.
@@ -549,12 +573,18 @@ Reserva, desconfianza.
 ### Rezumar *
 Dejar pasar a través de sus poros o rendijas.
 
+### Rigorismo **
+Exceso de severidad, principalmente en materias morales o disciplinarias.
+
 ### Sabañón **
 Hinchazón o ulceración de la piel, principalmente de las manos, los pies y las orejas, que es causada por frío excesivo y produce ardor y picazón.
 
 ### Sátira
 
 La sátira es el arte de hacerle ridículo a alguien o algo, provocando la risa para avergonzar, humillar o desacreditarlo.
+
+### Sayal ***
+Tela muy basta tejida de lana burda.
 
 ### Sempiterno
 

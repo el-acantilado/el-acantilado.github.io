@@ -233,6 +233,9 @@ En la moral católica, deseo de bienes terrenos y, en especial, apetito desorden
 * Que es de costumbre.
 * Habitual o reincidente.
 
+### Crematístico ***
+Del dinero o relacionado con el dinero.
+
 ### Crepitar *
 Producir sonidos repetidos, rápidos y secos, como el de la sal en el fuego.
 

@@ -398,6 +398,12 @@ Injusticia o gran maldad en el modo de obrar.
 ### Intentona *
 Intento temerario, especialmente si se ha frustrado.
 
+### Interpolación
+1. Poner algo entre otras cosas.
+2. Intercalar palabras o frases en el texto de un manuscrito antiguo, o en obras y escritos ajenos.
+3. Interrumpir o hacer una breve intermisión en la continuación de algo, y volver luego a proseguirlo.
+4. Calcular el valor aproximado de una magnitud en un intervalo cuando se conocen algunos de los valores que toma a uno y otro lado de dicho intervalo.
+
 ### Iridiscente *
 Que muestra o refleja los colores del arco iris.
 
@@ -621,6 +627,9 @@ Circunstancia, situación o coyuntura.
 * Oscilar, perdiendo la estabilidad y firmeza.
 * Tropezar o vacilar en la elección o pronunciación de las palabras.
 * Sentir perplejidad en algún punto o materia.
+
+### Transigir *
+Consentir en parte con lo que no se cree justo, razonable o verdadero, a fin de acabar con una diferencia.
 
 ### Trémulo *
 

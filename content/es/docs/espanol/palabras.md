@@ -237,6 +237,10 @@ Dicho de ciertas construcciones antiquísimas que se distinguen por el enorme ta
 ### Coetaneo *
 De la misma edad.
 
+### Concitarse ***
+* Provocar o causar algo, como un sentimiento o una reacción
+* Conmover, instigar a alguien contra otra persona
+
 ### Concupiscencia **
 En la moral católica, deseo de bienes terrenos y, en especial, apetito desordenado de placeres deshonestos.
 
@@ -283,6 +287,9 @@ Retener y ejercer ilegítimamente algún poder o cargo público. Retener lo que 
 * Pensar o imaginar algo.
 * Moverse avanzando por un lugar.
 * Dicho del tiempo o de un acontecimiento: Transcurrir o avanzar en su desarrollo.
+
+### Ecuménico *
+Universal, que se extiende a todo el orbe.
 
 ### Efluvio ***
 Emisión de partículas sutilísimas.
@@ -502,11 +509,17 @@ Melancólico, triste
 ### Oblongo *
 Más largo que ancho.
 
+### Óbolo **
+Cantidad pequeña de dinero que se da como limosna o donativo para contribuir a un fin benéfico.
+
 ### Olivarero *
 Que se dedica al cultivo del olivo.
 
 ### Ominoso *
 Abominable, despreciable.
+
+### Orate **
+Persona que tiene trastornadas o perturbadas las facultades mentales.
 
 ### Pábulo ***
 * Alimento que se toma para subsistir.
@@ -529,6 +542,9 @@ Dicho de una persona: Que pertenece a la clase social alta.
 
 Discurso en el que se alaba a alguien, especialmente el que se hace en honor a un santo.
 "en el siglo IV la literatura hispanocristiana contó con cultivadores ilustres, como el papa san Dámaso, autor de panegíricos de santos y mártires"
+
+### Parangón ***
+Comparación de una cosa con otra.
 
 ### Parrafada **
 * Conversación detenida y confidencial.
@@ -577,12 +593,13 @@ Originalmente los pretores eran los generales en jefe del ejército romano, aunq
 * Abundancia o multitud.
 
 ### Proeza
-
 Acción de gran esfuerzo y valor.
 
 ### Profiláctico **
-
 Que sirve para preservar o proteger de una enfermedad o un mal.
+
+### Propedéutica ***
+Enseñanza preparatoria para el estudio de una disciplina.
 
 ### Prorrumpir **
 Salir algo con ímpetu.
@@ -634,12 +651,18 @@ La sátira es el arte de hacerle ridículo a alguien o algo, provocando la risa 
 ### Sayal ***
 Tela muy basta tejida de lana burda.
 
+### Secularizar
+* Hacer desaparecer signos, valores o comportamientos que se consideran propios o identificativos de una confesión religiosa. *"la sociedad europea se ha secularizado a lo largo de este siglo"*
+
 ### Sempiterno
 
 Que durará siempre, que no tendrá fin. "vida sempiterna".
 
 ### Sendos ***
 Establece una relación de uno a uno entre los miembros de un conjunto de dos o más cosas o personas y los de otro conjunto de cosas o personas denotadas por el nombre al cual acompaña. *ambas películas están basadas en sendos relatos de Terry Pratchet*.
+
+### Senectud ***
+La senectud es la última etapa de la vida de un ser humano que se caracteriza por el envejecimiento biológico.
 
 ### Sima ***
 Cavidad grande y muy profunda en la tierra.

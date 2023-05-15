@@ -90,6 +90,10 @@ Asperón: Arenisca de cemento silíceo o arcilloso, que se emplea en los usos ge
 
 Que tiene analogía o similitud con una cosa.
 
+### Anatema ***
+* Excomunión.
+* Maldición.
+
 ### Anodino ***
 * Que es insustancial o que carece de interés o importancia.
 * [medicamento, sustancia] Que mitiga o calma el dolor.
@@ -207,11 +211,18 @@ Parte superior de una columna.
 ### Carillón ***
 Grupo de campanas en una torre, que producen un sonido armónico por estar acordadas.
 
+### Cavilar *
+Pensar con intención o profundidad en algo.
+
 ### Cazo **
 Recipiente de cocina.
 
 ### Cazoleta **
 Receptáculo pequeño que llevan algunos objetos, como el palo del boliche, el depósito del tabaco en la pipa o el narguile, etc.
+
+### Centuria
+* Siglo (período de 100 años).
+* En la milicia romana, compañía de 100 hombres.
 
 ### Céfiro ***
 * Viento del oeste.
@@ -331,6 +342,10 @@ Persona que considera el arte como valor esencial.
 ### Estólido *
 Falto de razón y discurso.
 
+### Estoicismo
+* Fortaleza o dominio sobre la propia sensibilidad.
+* Escuela fundada por Zenón y que se reunía en un pórtico de Atenas.
+
 ### Estrépito
 Ruido considerable.
 
@@ -355,6 +370,9 @@ Punto de apoyo de la palanca.
 ### Galimatías ***
 Lenguaje oscuro por la confusión de ideas
 
+### Gnosticismo **
+Doctrina filosófica y religiosa de los primeros siglos de la Iglesia, mezcla de la cristiana con creencias judaicas y orientales, que se dividió en varias sectas y propugnaba tener un conocimiento intuitivo y misterioso de las cosas divinas.
+
 ### Hendidura *
 Corte en una superficie o en un cuerpo sólido cuando no llega a dividirlos del todo.
 
@@ -374,12 +392,15 @@ La abreviatura ibid. hace referencia a la cita inmediatamente anterior, signific
 Que no se conoce o no ha sido descubierto.
 *"nos resultan incomprensibles y lejanos los ignotos motivos que desencadenaron la matanza"*
 
-### Impeler *
-Impulsar.
-
 ### Impasible
 * Incapaz de padecer o sentir.
 * Indiferente, imperturbable.
+
+### Impeler *
+Impulsar.
+
+### Imprecación ***
+Expresión del deseo de que alguien sufra un mal.
 
 ### Indeleble
 Que no se puede borrar o quitar.
@@ -390,6 +411,9 @@ Que causa deshonra.
 ### Influjo **
 * Acción y efecto de influir.
 * Flujo de la marea.
+
+### Ingente
+Muy grande.
 
 ### Iniquidad ***
 
@@ -403,6 +427,9 @@ Intento temerario, especialmente si se ha frustrado.
 2. Intercalar palabras o frases en el texto de un manuscrito antiguo, o en obras y escritos ajenos.
 3. Interrumpir o hacer una breve intermisión en la continuación de algo, y volver luego a proseguirlo.
 4. Calcular el valor aproximado de una magnitud en un intervalo cuando se conocen algunos de los valores que toma a uno y otro lado de dicho intervalo.
+
+### Itinerante *
+Ambulante (que va de un lugar a otro).
 
 ### Iridiscente *
 Que muestra o refleja los colores del arco iris.
@@ -507,6 +534,9 @@ Discurso en el que se alaba a alguien, especialmente el que se hace en honor a u
 * Conversación detenida y confidencial.
 * Trozo largo y pesado de charla o conversación.
 
+### Pedestre ***
+Que anda a pie.
+
 ### Pendía
 * Estar colgada, suspendida o inclinada.
 * Estar subordinado a alguien o algo.
@@ -539,6 +569,9 @@ Que Conduce o lleva algo de una parte a otra por el porte o precio convenido o s
 ### Preconizar ***
 Defender o apoyar desde el primer momento una cosa que se considera buena o recomendable.
 
+### Pretores ***
+Originalmente los pretores eran los generales en jefe del ejército romano, aunque en tiempos de relativa calma también oficiaban de intérpretes de las leyes.
+
 ### Prodigalidad ***
 * Profusión, desperdicio, consumo de la propia hacienda, gastando excesivamente.
 * Abundancia o multitud.
@@ -557,12 +590,18 @@ Salir algo con ímpetu.
 ### Prosaico *
 Vulgar. Que no tiene gracia o ingenio.
 
+### Pulular
+Abundar y bullir en un lugar.
+
 ### Quintaesencia **
 * Lo más puro, fino y acendrado de una cosa.
 * Última esencia o extracto de algo.
 
 ### Raudo *
 Rápido, violento, precipitado.
+
+### Recidiva ***
+Reaparición de una enfermedad algún tiempo después de padecida.
 
 ### Reciedumbre ***
 Fuerza, fortaleza o vigor.

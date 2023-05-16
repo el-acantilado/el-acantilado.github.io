@@ -673,6 +673,9 @@ Esparcimiento.
 ### Solícito
 Diligente, cuidadoso.
 
+### Superlativo *
+Muy grande o desmesurado. Ambición superlativa.
+
 ### Tenue
 Delicado, delgado y débil.
 

@@ -31,7 +31,7 @@ La única opción real era que algún amigo, o un amigo de ese amigo, tuviera la
 
 ![Prince of Persia](prince.jpg)***Prince of Persia**: Clásico entre clásicos. Conocido en nuestros países gracias a la piratería.*
 
-Y para nosotros las cosas siguieron así, hasta una noche de 1996. Aún recuerdo con especial nitidez que recibimos de manos de nuestro padre una **extraña revista**. No es un regalo al que estuvieramos acostumbrados de niños. Sin embargo, esta revista era diferente a todas las demás, era una revista de juegos para PC, de hecho era la **PC-Player número 5**. Cargadas de discos con demos (usualmente uno o dos niveles de un juego), shareware (generalmente contenían el primer episodio de un juego) y a veces juegos completos, **pasaron a llenar nuestra infancia de momentos inolvidables***.
+Y para nosotros las cosas siguieron así, hasta una noche de 1996. Aún recuerdo con especial nitidez que recibimos de manos de nuestro padre una **extraña revista**. No es un regalo al que estuvieramos acostumbrados de niños. Sin embargo, esta revista era diferente a todas las demás, era una revista de juegos para PC, de hecho era la **PC-Player número 5**. Cargadas de discos con demos (usualmente uno o dos niveles de un juego), shareware (generalmente contenían el primer episodio de un juego) y a veces juegos completos, **pasaron a llenar nuestra infancia de momentos inolvidables**.
 
 ![Mystic Towers](mystic-towers.jpg) ***Mystic Towers**: una experiencia oscura que nunca pudimos terminar, pero que siempre alimentó nuestra imaginación.*
 
@@ -41,7 +41,7 @@ La insistencia de mi padre a encontrar estas publicaciones (que eran escasas y s
 
 ![Discworld](discworld.jpg)***Discworld** (Mundodisco): que lo encontró mi hermano en un disco curioso como ninguno. Digna coincidencia de la saga de Terry Pratchet.*
 
-Esas revistas eran como **publicaciones cuasi-mágicas**, hechas por personas apasionadas que compartían sus experiencias y descubrimientos en ese mundillo incipiente del entretenimiento digital. Claro está, esas revistas desaparecieron con el tiempo, pero para quiénes tuvimos el placer de explorarlas, vivirán por siempre en nuestra memoria.
+Esas revistas eran **publicaciones cuasi-mágicas**, hechas por personas apasionadas que compartían sus experiencias y descubrimientos en ese mundillo incipiente del entretenimiento digital. Claro está, esas revistas desaparecieron con el tiempo, pero para quiénes tuvimos el placer de explorarlas, vivirán por siempre en nuestra memoria.
 
 ![Loom](ishar-2.jpg)***Ishar 2**, uno de los viajes más difíciles pero gratificantes en aquel entonces.*
 

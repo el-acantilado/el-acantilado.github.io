@@ -24,7 +24,7 @@ Palabras marcadas con * (asteriscos) indica que son raras. A más asteriscos má
 * Acción de lavar o lavarse.
 * Purificación ritual por medio de agua que se hace antes de la oración en ciertas religiones.
 
-### Acendrado **
+### Acendrado ***
 Dicho de algo como una cualidad, una conducta, etc.: Puro y sin mancha ni defecto.
 
 ### Acrecentar
@@ -167,7 +167,7 @@ Unir, armonizar o poner de acuerdo cosas o personas distintas para contribuir a 
 
 Levantar o subir algo o a alguien con los brazos. Conceder grandeza, honor o más valor a una persona o cosa.
 
-### Autarquía
+### Autarquía *
 
 Del gr. *αὐταρχία* autarchía 'poder absoluto'. Dominio de sí mismo. Autosuficiencia. Política de un Estado que intenta bastarse con sus propios recursos.
 

@@ -48,7 +48,7 @@ El siguiente fragmento extraído de un video de **Casey Muratori**, famoso entre
 > **Nada de lo que hemos desarrollado** en los últimos 30 años de desarrollo de videojuegos es una rueda. **No tenemos una sóla rueda.** Si piensas que Unity o Unreal son ruedas, es simple y llanamente una visión corta, simplista. Lo siento, pero esa es la verdad." -**Casey Muratori**.
 
 {{<youtube fQeqsn7JJWA >}}
-***Video completo**: Por qué empece desde 0 en vez de usar un motor de juegos.*
+***Video completo**: Por qué empecé desde cero en vez de usar un motor de juegos.*
 
 > "Creemos que entendemos **las reglas** cuando nos volvemos **adultos**, pero lo que realmente experimentamos es la **reducción de la imaginación**." -**David Lynch**.
 

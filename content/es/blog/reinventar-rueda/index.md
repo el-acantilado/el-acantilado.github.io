@@ -1,8 +1,8 @@
 ---
 title: "Sobre quiénes dicen que todo está inventado"
 subtitle: "O la mentira de no reinventar la rueda"
-description: \"Creo que los guionistas están muy preocupados porque todo se haya dicho antes. Seguro, pero no ha sido dicho por ti\" -David Lynch.
-excerpt: \"Creo que los guionistas *están muy preocupados porque todo se haya dicho antes*. Seguro, **pero no ha sido dicho por ti**\" -**David Lynch**.
+description: \"Todo lo que aprendí en mi vida, lo aprendí porque decidí probar algo nuevo\" -David Lynch.
+excerpt: \"Todo lo que **aprendí** en mi **vida**, lo aprendí porque decidí probar algo **nuevo**\" -**David Lynch**.
 url: "/blog/reinventar-rueda"
 date: 2023-06-11
 lastmod: 2023-06-11

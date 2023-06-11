@@ -9,6 +9,8 @@ lastmod: 2023-01-29
 draft: false
 weight: 50
 images: ['revistas-disquetes.jpg']
+poststyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
+postinnerstyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
 categories: ["Remembranzas"]
 tags: ["nostalgia", "juegos", "msdos"]
 contributors: ["Daniel Cañizares"]

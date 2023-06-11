@@ -18,6 +18,10 @@
   color: $color !important;
   background-color: $bg-color !important;
 
+  & div.wrap {
+    background-color: $bg-alt-color;
+  }
+
   h1,
   h2,
   h3,
@@ -186,5 +190,10 @@
   .card {
     border-color: $border-color;
     background-color: $bg-alt-color;
+  }
+
+  .page-item.active .page-link {
+    background-color: $bg-alt-color;
+    border-color: $primary;
   }
 }

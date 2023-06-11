@@ -3,4 +3,4 @@
   {{ $image = resources.Get (printf "%s%s" "images/" site.Params.defaultImage) }}
 {{ end -}}
 
-<img class="img-fluid lazyload blur-up" src="{{ $image.Permalink }}" alt="{{ .Title }}">
+<img class="img-fluid lazyload " style="{{ .Params.postinnerstyle | safeCSS }}" src="{{ $image.Permalink }}" alt="{{ .Title }}">

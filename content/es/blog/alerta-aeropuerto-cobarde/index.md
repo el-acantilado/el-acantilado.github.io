@@ -9,6 +9,9 @@ lastmod: 2023-03-21
 draft: false
 weight: 50
 images: ['alerta-aeropuerto-cobarde.webp']
+postclass: bg-image-contain
+poststyle: "animation: hue-animated 4s linear infinite;"
+postinnerstyle: "animation: hue-animated 4s linear infinite;"
 categories: ["Reflexiones"]
 tags: ["peliculas", "libertad", "prohibicion"]
 contributors: ["Daniel Cañizares"]

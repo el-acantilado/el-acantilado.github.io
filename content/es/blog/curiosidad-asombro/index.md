@@ -9,6 +9,8 @@ lastmod: 2023-03-06
 draft: false
 weight: 50
 images: ['curiosidad-asombro.jpg']
+poststyle: "animation: sepia-animated 2s ease-in-out infinite alternate; "
+postinnerstyle: "animation: sepia-animated 2s ease-in-out infinite alternate; "
 categories: ["Reflexiones"]
 tags: ["palabras", "ciencia", "pensamientos"]
 contributors: ["Daniel Cañizares"]

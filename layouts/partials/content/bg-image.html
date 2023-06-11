@@ -3,5 +3,5 @@
   {{ $image = resources.Get (printf "%s%s" "images/" site.Params.defaultImage) }}
 {{ end -}}
 
-<div class="bg-image" style="background-image: url('{{ $image.Permalink }}')">
+<div class="bg-image {{ .Params.postclass }}" style="background-image: url('{{ $image.Permalink }}'); {{ .Params.poststyle | safeCSS }}">
 </div>

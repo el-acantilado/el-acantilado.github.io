@@ -9,6 +9,8 @@ lastmod: 2023-02-05
 draft: false
 weight: 50
 images: ['valor-promesa.jpg']
+poststyle: "animation: grayscale-animated 3s linear infinite alternate; "
+postinnerstyle: "animation: grayscale-animated 3s linear infinite alternate; "
 categories: ["Reflexiones"]
 tags: ["peliculas", "libertad", "opresión"]
 contributors: ["Daniel Cañizares"]

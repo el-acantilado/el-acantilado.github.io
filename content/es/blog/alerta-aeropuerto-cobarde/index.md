@@ -1,7 +1,7 @@
 ---
 title: "Alerta aeropuerto es detestable y cobarde"
 subtitle: "O por qué ver Expreso de Medianoche"
-description: \"Todo listo para dirigirme al lugar (aeropuerto) en el cual el Estado y su poder político más veja a los individuos (la cantidad de papeles y controles crecen década a década).\" -Diego Giacomini.
+description: '"Todo listo para dirigirme al lugar (aeropuerto) en el cual el Estado y su poder político más veja a los individuos (la cantidad de papeles y controles crecen década a década)." -Diego Giacomini.'
 excerpt: \"Todo listo para dirigirme al lugar (aeropuerto) en el cual el Estado y su poder político más veja a los individuos (la cantidad de papeles y controles crecen década a década).\" -**Diego Giacomini**.
 url: "/blog/alerta-aeropuerto-cobarde"
 date: 2023-03-21

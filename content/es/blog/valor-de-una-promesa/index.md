@@ -1,7 +1,7 @@
 ---
 title: "Una película que te hará odiar al Estado"
 subtitle: "El Valor de una Promesa"
-description: \"Ustedes lo encierran lo llenan de medicinas agujas y quien sabe que más lo maltratan y no hay discusión. Soy su padre. Tan solo quiero verlo decirle hola... y eso no.\" Elmer Jackson, pidiendo ver a su hijo.
+description: '"Ustedes lo encierran lo llenan de medicinas agujas y quien sabe que más lo maltratan y no hay discusión. Soy su padre. Tan solo quiero verlo decirle hola... y eso no." Elmer Jackson, pidiendo ver a su hijo.'
 excerpt: "\"Ustedes lo encierran lo llenan de medicinas agujas y quien sabe que más lo maltratan y no hay discusión. **Soy su padre**. **Tan solo quiero verlo decirle hola**... y eso no.\" *Elmer Jackson*, pidiendo ver a su hijo."
 url: "/blog/valor-de-una-promesa"
 date: 2023-02-05

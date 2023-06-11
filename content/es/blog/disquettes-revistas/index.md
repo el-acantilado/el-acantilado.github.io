@@ -1,8 +1,8 @@
 ---
 title: "De los Disquetes y las Revistas de ordenadores"
 subtitle: "El viaje de la nostalgia"
-description: \"Sin dejarse llevar por el *torrentum* de productos, muchos de ellos de baja calidad, que invanden el mercado y que no hacen más que repetir los éxitos pasados, **las páginas de nuestra revista buscan**, ante todo y en lo posible, **lo novedoso**.\" 1995, Editorial de la PC-Player Número 5.
-excerpt: \"Sin dejarse llevar por el *torrentum* de productos, muchos de ellos de baja calidad, que invanden el mercado y que no hacen más que repetir los éxitos pasados, **las páginas de nuestra revista buscan**, ante todo y en lo posible, **lo novedoso**.\" 1995, Editorial de la PC-Player Número 5.
+description: '"Sin dejarse llevar por el torrentum de productos, muchos de ellos de baja calidad, que invaden el mercado y que no hacen más que repetir los éxitos pasados, las páginas de nuestra revista buscan, ante todo y en lo posible, lo novedoso." 1995, Editorial de la PC-Player Número 5.'
+excerpt: \"Sin dejarse llevar por el *torrentum* de productos, muchos de ellos de baja calidad, que invaden el mercado y que no hacen más que repetir los éxitos pasados, **las páginas de nuestra revista buscan**, ante todo y en lo posible, **lo novedoso**.\" 1995, Editorial de la PC-Player Número 5.
 url: "/blog/disquetes-revistas"
 date: 2023-01-29
 lastmod: 2023-01-29

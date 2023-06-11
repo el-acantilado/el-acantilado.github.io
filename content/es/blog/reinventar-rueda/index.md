@@ -4,11 +4,13 @@ subtitle: "O la mentira de no reinventar la rueda"
 description: \"Creo que los guionistas están muy preocupados porque todo se haya dicho antes. Seguro, pero no ha sido dicho por ti\" -David Lynch.
 excerpt: \"Creo que los guionistas *están muy preocupados porque todo se haya dicho antes*. Seguro, **pero no ha sido dicho por ti**\" -**David Lynch**.
 url: "/blog/reinventar-rueda"
-date: 2023-05-01
-lastmod: 2023-05-01
-draft: true
+date: 2023-06-11
+lastmod: 2023-06-11
+draft: false
 weight: 50
-images: ['Rebus_au_sortir_dun_songe.jpg']
+images: ['inventar.jpg']
+poststyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
+postinnerstyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
 categories: ["Reflexiones"]
 tags: ["nostalgia", "juegos", "msdos"]
 contributors: ["Daniel Cañizares"]
@@ -29,7 +31,7 @@ Luego, hay consejos cuya intención es **guiar** y otros que sólo aspiran a **a
 
 En este orden de ideas, quisiera llamar la atención sobre uno de los consejos más perniciosos que he oído y que usualmente pretende disfrazarse de bien intencionado. Lo habrán oído aquellos dedicados a esfuerzos **creativos e intelectuales** (especialmente **programación de ordenadores**), y no es otro que la falacia de que **ya todo está inventado**, que no hay nada nuevo por hacer, el famoso **"no reinventes la rueda"**. Quién dice esto, en el mejor de los casos, no sabe de lo que habla y es un ingenuo.
 
-![david lynch](lynch-new.png)
+![david lynch frase](lynch-new.png)
 
 > "Todo lo que **aprendí** en mi **vida**, lo aprendí porque decidí probar algo **nuevo**" -**David Lynch**.
 
@@ -54,9 +56,8 @@ El siguiente fragmento extraído de un video de **Casey Muratori**, famoso entre
 
 Considero que no sobra aclarar que esta no es una llamada a una especie de <a href="/docs/espanol/palabras/#autarquía-" target="_blank">autarquía</a>; más bien esta es una defensa del pensamiento crítico, quizá una invitación a explorar los confines más recónditos de lo que sea que apasione al lector, a no dar las cosas por sentado, a reemplazar el dogma por conocimiento.
 
-![escohotado frase mundo](escohotado-mundo.png)
+![escohotado frase mundo](escohotado-mundo.jpg)
 
 > "El mundo no es lo que lo que nos dicen que es, sino lo que vemos con nuestros propios ojos". -**Antonio Escohotado**.
 
-
-
+Si quieres saber más de las **pinturas** que aparecen en este artículo <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.

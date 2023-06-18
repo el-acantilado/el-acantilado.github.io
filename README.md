@@ -22,4 +22,4 @@ Publicado en: [el-acantilado.com](https://el-acantilado.com)
    ```
 
 
-> **El Acantilado: al borde de la locura**. De programación y otras artes liberales.
+> **El Acantilado: al borde de la locura**.

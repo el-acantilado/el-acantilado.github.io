@@ -27,7 +27,7 @@ license:  "* Comparte libremente: este artículo está bajo licencia <a href=\"h
 * **Guiar** (guide): mostrar a las personas el camino a un lugar en una región difícil o peligrosa.
 * **Arruinar** (spoil): prevenir que also sea exitoso o satisfactorio.
 
-Luego, hay consejos cuya intención es **guiar** y otros que sólo aspiran a **arruinar**, a descarrilar el vagón del esfuerzo. Por ejemplo, un "*no hagas eso así*" podría encaminar y ahorrar mucho tiempo o quizá simplemente sea una afirmación cargada de envidia y pretenda frustrar cualquier intento de progreso. **Una delgada línea** que crea una basta diferencia.
+Luego, hay consejos cuya intención es **guiar** y otros que sólo aspiran a **arruinar**, a descarrilar el vagón del esfuerzo. Por ejemplo, un "*no hagas eso así*" podría encaminar y ahorrar mucho tiempo o quizá simplemente sea una afirmación cargada de envidia que pretende frustrar cualquier intento de progreso. **Una delgada línea** creando una basta diferencia.
 
 En este orden de ideas, quisiera llamar la atención sobre uno de los consejos más perniciosos que he oído y que usualmente pretende disfrazarse de bien intencionado. Lo habrán oído aquellos dedicados a esfuerzos **creativos e intelectuales** (especialmente **programación de ordenadores**), la falaz afirmación "**ya todo está inventado**", pretender que no hay nada nuevo por hacer, consentir el estancamiento con la excusa de **no reinventar la rueda**. Quién dice esto, en el mejor de los casos, no sabe de lo que habla y es un ingenuo.
 
@@ -58,6 +58,6 @@ Considero que no sobra aclarar que esta no es una llamada a una especie de <a hr
 
 ![escohotado frase mundo](escohotado-mundo.jpg)
 
-> "El mundo no es lo que lo que nos dicen que es, sino lo que vemos con nuestros propios ojos". -**Antonio Escohotado**.
+> "El mundo no es lo que lo que nos dicen que es, sino lo que vemos con nuestros propios ojos." -**Antonio Escohotado**.
 
 Si quieres saber más de las **pinturas** que aparecen en este artículo <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.

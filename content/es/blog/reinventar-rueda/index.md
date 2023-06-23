@@ -12,7 +12,7 @@ images: ['inventar.jpg']
 poststyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
 postinnerstyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
 categories: ["Reflexiones"]
-tags: ["nostalgia", "juegos", "msdos"]
+tags: ["inventar", "imaginación", "creatividad"]
 contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false

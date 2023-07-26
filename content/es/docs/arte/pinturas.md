@@ -41,3 +41,12 @@ toc: true
 ![Allis hoisting engine (New Catechism of the Steam Engine, 1904)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Allis_hoisting_engine_%28New_Catechism_of_the_Steam_Engine%2C_1904%29.jpg/800px-Allis_hoisting_engine_%28New_Catechism_of_the_Steam_Engine%2C_1904%29.jpg)
 * Allis hoisting engine (New Catechism of the Steam Engine, 1904)
 * [Imagen](https://commons.wikimedia.org/wiki/File:Allis_hoisting_engine_(New_Catechism_of_the_Steam_Engine,_1904).jpg)
+
+
+## Fragmentos de Carl Jung - Parte 1: El espíritu de las profundidades
+
+![The brain (stoned) 5 by Hanno Karlhuber](https://upload.wikimedia.org/wikipedia/commons/5/5f/The_brain_%28stoned%29_5_by_Hanno_Karlhuber.jpg)
+* The brain (stoned) 5 by Hanno Karlhuber (1983 - 1984).
+* [Imagen](https://commons.wikimedia.org/wiki/File:The_brain_(stoned)_5_by_Hanno_Karlhuber.jpg)
+
+

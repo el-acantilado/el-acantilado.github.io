@@ -17,7 +17,7 @@ toc: true
 
 Palabras marcadas con * (asteriscos) indica que son raras. A más asteriscos más raras. Las demás quizá no sean rarísimas pero no son de uso común.
 
-## Listado
+## A
 
 ### Ablución **
 
@@ -82,9 +82,16 @@ Instrumento que sirve para escardar y limpiar la tierra de malas hierbas, y para
 ### Altricial ***
 En zoología, las crías altriciales son aquellas que nacen ciegas, sin los conductos auditivos abiertos, prácticamente sin pelo o plumas y con una movilidad muy limitada.
 
+### Ampuloso ***
+
+**Ampulosidad.** Dicho del lenguaje o del estilo y del escritor o del orador: Hinchado y redundante.
+
 ### Amoladera ***
 
 Asperón: Arenisca de cemento silíceo o arcilloso, que se emplea en los usos generales de construcción y también, cuando es de grano fino y uniforme, en piedras de amolar y para usos de limpieza doméstica.
+
+### Anacoreta ***
+Persona que vive en lugar solitario, entregada enteramente a la contemplación y a la penitencia.
 
 ### Análogo
 
@@ -159,6 +166,9 @@ Un atolón es una isla coralina oceánica, por lo general con forma de anillo m�
 * Exceso en una actividad cualquiera.
 * Altercado, riña.
 
+### Augur ***
+Sacerdote que en la antigua Roma practicaba oficialmente la adivinación por el canto, el vuelo y la manera de comer de las aves y por otros signos.
+
 ### Aunar
 
 Unir, armonizar o poner de acuerdo cosas o personas distintas para contribuir a una causa común o para conseguir un fin determinado.
@@ -177,6 +187,8 @@ Rechazo o repugnancia frente a alguien o algo.
 ### Azadilla **
 Instrumento que sirve para escardar y limpiar la tierra de malas hierbas, y para trasplantar plantas pequeñas.
 
+## B
+
 ### Bajamar
 Marea baja o bajamar: Momento opuesto, en que el mar alcanza su menor altura.
 
@@ -191,6 +203,8 @@ Buque de dos palos y vela cuadrada o redonda.
 
 ### Blandir
 Mover con la mano algo, especialmente un arma, con movimiento trémulo o vibratorio.
+
+## C
 
 ### Cadalso **
 Tablado para una ejecución o acto solemne.
@@ -210,6 +224,9 @@ Parte superior de una columna.
 
 ### Carillón ***
 Grupo de campanas en una torre, que producen un sonido armónico por estar acordadas.
+
+### Castrense ***
+Perteneciente o relativo al Ejército y al estado o profesión militar.
 
 ### Cavilar *
 Pensar con intención o profundidad en algo.
@@ -234,8 +251,20 @@ Abundancia de chabolas (vivienda de escasas proporciones y pobre construcción) 
 ### Ciclópea ***
 Dicho de ciertas construcciones antiquísimas que se distinguen por el enorme tamaño de sus piedras, unidas por lo común sin argamasa.
 
+### Claque **
+Grupo de personas que asisten a un espectáculo con el fin de aplaudir en momentos señalados. La claque.
+
+### Claqué *
+Baile moderno caracterizado principalmente por el zapateo que el bailarín realiza con la punta y el tacón de sus zapatos, reforzados en ambas partes con unas láminas de metal que le permiten marcar el ritmo.
+
 ### Coetaneo *
 De la misma edad.
+
+### Compeler **
+Obligar a alguien, con fuerza o por autoridad, a que haga lo que no quiere.
+
+### Compelido **
+Obligado.
 
 ### Concitarse ***
 * Provocar o causar algo, como un sentimiento o una reacción
@@ -243,6 +272,12 @@ De la misma edad.
 
 ### Concupiscencia **
 En la moral católica, deseo de bienes terrenos y, en especial, apetito desordenado de placeres deshonestos.
+
+### Connivencia ***
+Disimulo o tolerancia en el superior acerca de las transgresiones que cometen sus subordinados contra las reglas o las leyes bajo las cuales viven.
+
+### Contubernio *
+Habitación con otra persona. Cohabitación ilícita. Alianza o liga vituperable.
 
 ### Consuetudinario ***
 * Que es de costumbre.
@@ -257,6 +292,8 @@ Producir sonidos repetidos, rápidos y secos, como el de la sal en el fuego.
 ### Crispar
 * Causar contracción repentina y pasajera en el tejido muscular.
 * Irritar o exasperar a alguien.
+
+## D
 
 ### Denuedo **
 Brío, intrepidez.
@@ -283,10 +320,16 @@ Que produce desconcierto o perplejidad.
 ### Detentar *
 Retener y ejercer ilegítimamente algún poder o cargo público. Retener lo que manifiestamente no le pertenece.
 
+### Disensiones **
+
+Oposición o contrariedad de varias personas en los pareceres o en los propósitos.
+
 ### Discurría
 * Pensar o imaginar algo.
 * Moverse avanzando por un lugar.
 * Dicho del tiempo o de un acontecimiento: Transcurrir o avanzar en su desarrollo.
+
+## E
 
 ### Ecuménico *
 Universal, que se extiende a todo el orbe.
@@ -296,6 +339,9 @@ Emisión de partículas sutilísimas.
 
 ### Égida *
 Escudo. Protección, defensa.
+
+### Egregio ***
+Insigne, ilustre.
 
 ### Ejote ***
 Vaina del frijol cuando está tierna.
@@ -313,10 +359,16 @@ Liberarse de cualquier clase de subordinación o dependencia.
 ### Empréstito ***
 Préstamo que toma el Estado o una corporación o empresa, especialmente cuando está representado por títulos negociables o al portador.
 
+### Encubrar **
+Levantar en alto. Subir la cumbre, pasarla. Ensalzar, engrandecer a alguien honrándolo y colocándolo en puestos o empleos honoríficos.
+
 ### Entornar *
 * Volver la puerta o la ventana sin cerrarla del todo.
 * Cerrar los ojos de manera incompleta.
 * Inclinar, ladear, trastornar.
+
+### Eremítico ***
+Perteneciente o relativo al ermitaño.
 
 ### Erial ***
 Dicho de una tierra o de un campo: Sin cultivar ni labrar.
@@ -365,6 +417,11 @@ Perdida del carácter sagrado de un lugar
 ### Exiguo **
 Insuficiente, escaso.
 
+### Extático ***
+Que está en éxtasis, o lo tiene con frecuencia o habitualmente.
+
+## F
+
 ### Fardo ***
 Lío grande de ropa u otra cosa, apretado para poder llevarlo de una parte a otra.
 
@@ -374,14 +431,21 @@ Muerte dada por alguien a su propio hermano.
 ### Fulcro ***
 Punto de apoyo de la palanca.
 
+## G
+
 ### Galimatías ***
 Lenguaje oscuro por la confusión de ideas
 
 ### Gnosticismo **
 Doctrina filosófica y religiosa de los primeros siglos de la Iglesia, mezcla de la cristiana con creencias judaicas y orientales, que se dividió en varias sectas y propugnaba tener un conocimiento intuitivo y misterioso de las cosas divinas.
 
+## H
+
 ### Hendidura *
 Corte en una superficie o en un cuerpo sólido cuando no llega a dividirlos del todo.
+
+### Heresiarca **
+Fundador de una herejía.
 
 ### Hidromiel *
 Agua mezclada con miel.
@@ -391,6 +455,8 @@ Soldado griego de infantería que usaba armas pesadas.
 
 ### Horcajadas *
 *A horcajadas*. Dicho de montar, cabalgar o sentarse: Con una pierna a cada lado de la caballería, persona o cosa sobre la que se está.
+
+## I
 
 ### Ibid
 La abreviatura ibid. hace referencia a la cita inmediatamente anterior, significando que ambas citas tratan del mismo autor y del mismo libro
@@ -444,11 +510,18 @@ Que muestra o refleja los colores del arco iris.
 ### Isonomía **
 Igualdad ante la ley.
 
+## J
+
 ### Jamba ***
 Lados que sostienen el dintel de una puerta.
 
+## L
+
 ### Lacustre *
 Relativo a los lagos
+
+### Languidecer *
+Perder el espíritu o el vigor.
 
 ### Laudo **
 Decisión o fallo dictado por los árbitros o amigables componedores, que pone fin al procedimiento arbitral.
@@ -465,6 +538,8 @@ Oscuro, tenebroso. Triste melancólico.
 ### Luctuoso **
 Triste, fúnebre y digno de llanto. Que produce o conlleva tristeza, dolor o luto.
 
+## M
+
 ### Macilento ***
 Flaco y descolorido.
 
@@ -474,6 +549,9 @@ Mancha, engaño.
 ### Maniqueísmo *
 
 Tendencia a reducir la realidad a una oposición radical entre lo bueno y lo malo.
+
+### Manierismo ***
+Estilo artístico y literario del Renacimiento tardío, caracterizado por su refinamiento y artificiosidad. Tendencia al rebuscamiento expresivo. Esta obra incurre en el manierismo.
 
 ### Manumitir ***
 Dar libertad a un esclavo.
@@ -506,6 +584,11 @@ La mitografía es el estudio de mitos y leyendas antiguas que conforman las mito
 ### Mustio **
 Melancólico, triste
 
+## N
+
+
+## O
+
 ### Oblongo *
 Más largo que ancho.
 
@@ -520,6 +603,11 @@ Abominable, despreciable.
 
 ### Orate **
 Persona que tiene trastornadas o perturbadas las facultades mentales.
+
+### Oropel **
+Cosa de poco valor y mucha apariencia.
+
+## P
 
 ### Pábulo ***
 * Alimento que se toma para subsistir.
@@ -537,6 +625,10 @@ Especie de candelero bajo, con mango y pie, generalmente de forma de platillo.
 
 ### Patricio *
 Dicho de una persona: Que pertenece a la clase social alta.
+
+### Panegiristas ***
+
+Persona que alaba algo o a alguien de palabra o por escrito.
 
 ### Panegírico ***
 
@@ -579,6 +671,9 @@ Grupo de personas famosas, especialmente en las letras, que viven en la misma é
 * De plomo.
 * Muy aburrido o pesado.
 
+### Plutocracia *
+Situación en la que los ricos ejercen su preponderancia en el gobierno del Estado.
+
 ### Porteador *
 Que Conduce o lleva algo de una parte a otra por el porte o precio convenido o señalado.
 
@@ -610,9 +705,13 @@ Vulgar. Que no tiene gracia o ingenio.
 ### Pulular
 Abundar y bullir en un lugar.
 
+## Q
+
 ### Quintaesencia **
 * Lo más puro, fino y acendrado de una cosa.
 * Última esencia o extracto de algo.
+
+## R
 
 ### Raudo *
 Rápido, violento, precipitado.
@@ -622,6 +721,9 @@ Reaparición de una enfermedad algún tiempo después de padecida.
 
 ### Reciedumbre ***
 Fuerza, fortaleza o vigor.
+
+### Regadío *
+Dicho de un terreno: Que se puede regar. Terreno dedicado a cultivos que se fertilizan con riego.
 
 ### Reluctancia **
 Resistencia que ofrece un circuito al flujo magnético.
@@ -640,6 +742,8 @@ Dejar pasar a través de sus poros o rendijas.
 
 ### Rigorismo **
 Exceso de severidad, principalmente en materias morales o disciplinarias.
+
+## S
 
 ### Sabañón **
 Hinchazón o ulceración de la piel, principalmente de las manos, los pies y las orejas, que es causada por frío excesivo y produce ardor y picazón.
@@ -673,8 +777,13 @@ Esparcimiento.
 ### Solícito
 Diligente, cuidadoso.
 
+### Solio ***
+*Trono*. Sesión solemne que las antiguas Cortes celebraban con asistencia del rey, para que este confirmase lo acordado en ellas.
+
 ### Superlativo *
 Muy grande o desmesurado. Ambición superlativa.
+
+## T
 
 ### Tenue
 Delicado, delgado y débil.
@@ -700,6 +809,13 @@ Consentir en parte con lo que no se cree justo, razonable o verdadero, a fin de 
 
 Que tiembla. *Voz trémula*
 
+## U
+
+## V
+
+### Vagauda ***
+La vaguada se sitúa en una determinada zona donde aparece una columna de aire que va en ascenso y provoca la aparición de precipitaciones y de nubes. Se trata de un descenso en la presión del aire que provoca que el aire se vaya desplazando en dirección hacia arriba, lo que reduce la presión atmosférica.
+
 ### Veleidad ***
 * Voluntad antojadiza o deseo vano.
 * Inconstancia, ligereza.
@@ -721,6 +837,18 @@ Persona que se dedica al cultivo de la vid.
 ### Volición ***
 
 Volición es, en un sentido general, un acto de la voluntad o una acción voluntaria.​ Lo volitivo es lo relativo a la volición o voluntad.
+
+## W
+
+## X
+
+## Y
+
+### Yermo *
+
+Inhabitado. No cultivado.
+
+## Z
 
 ### Zozobrante *
 * Dicho de una embarcación: Peligrar por la fuerza y contraste de los vientos.

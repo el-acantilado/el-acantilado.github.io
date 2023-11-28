@@ -11,9 +11,9 @@ weight: 50
 images: ['curiosidad-asombro.jpg']
 poststyle: "animation: sepia-animated 2s ease-in-out infinite alternate; "
 postinnerstyle: "animation: sepia-animated 2s ease-in-out infinite alternate; "
-categories: ["Reflexiones"]
+categories: ["Fragmentos"]
 tags: ["palabras", "ciencia", "pensamientos"]
-contributors: ["Daniel Cañizares"]
+contributors: ["El Acantilado"]
 pinned: false
 homepage: false
 license:  "* Comparte libremente: este artículo está bajo licencia <a href=\"http://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CCBY</a>.

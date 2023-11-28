@@ -11,7 +11,7 @@ weight: 50
 images: ['realidad-cosas.jpg']
 poststyle: "animation: hue-animated 4s ease-in-out infinite alternate; "
 postinnerstyle: "animation: hue-animated 4s ease-in-out infinite alternate; "
-categories: ["Reflexiones"]
+categories: ["Fragmentos"]
 tags: ["realidad", "infinitud", "pensamientos"]
 contributors: ["El Acantilado"]
 pinned: false

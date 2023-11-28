@@ -11,7 +11,7 @@ weight: 50
 images: ['jung-espiritu-profundidades.jpg']
 poststyle: "animation: hue-animated 3s linear infinite; "
 postinnerstyle: "animation: hue-animated 3s linear infinite;"
-categories: ["Reflexiones"]
+categories: ["Fragmentos"]
 tags: ["profundidad", "psique"]
 contributors: ["El Acantilado"]
 pinned: false

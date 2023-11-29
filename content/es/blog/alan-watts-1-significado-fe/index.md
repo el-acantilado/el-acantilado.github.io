@@ -21,9 +21,11 @@ license:  "* Comparte libremente: este artículo está bajo licencia <a href=\"h
 * Las imagenes, videos y otros contenidos son usados sólo con fines informativos/educativos y son propiedad de sus respectivos dueños."
 ---
 
+Si quieres saber más de la **pintura** de arriba <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.
+
 > "Tener fe es confiar en el agua. Cuando nadas no te agarras al agua, porque si lo haces te hundirás y te ahogarás. En lugar de eso, te relajas y flotas." -**Alan Watts**.
 
-Si quieres saber más de las **pintura** de arriba <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.
+
 
 
 Hoy compartimos unos fragmentos en los que el profundo y divertido filósofo **Alan Watts** habla sobre lo que a su juicio es el verdadero significado de la palabra **fe**.

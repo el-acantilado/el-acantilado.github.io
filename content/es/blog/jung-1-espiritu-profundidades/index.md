@@ -23,7 +23,7 @@ license:  "* Comparte libremente: este artículo está bajo licencia <a href=\"h
 * Las imágenes son usadas sólo con fines informativos/educativos son propiedad de sus respectivos dueños."
 ---
 
-Si quieres saber más de las **pintura** de arriba <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.
+Si quieres saber más de la **pintura** de arriba <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.
 
 > "El espíritu de las **profundidades** tomó mi **entendimiento** y todo mi **conocimiento** y los puso al servicio de lo **inexplicable** y lo **paradójico**." -**Carl Jung**.
 

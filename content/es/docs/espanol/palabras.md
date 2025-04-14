@@ -46,12 +46,22 @@ Apremiante, urgente.
 
 Parecido, similar.
 
+### Agorero ***
+
+* Que predice males o desdichas.
+* Que adivina por agüeros. Supersticioso.
+
+
 ### Ágrafo **
 Que es incapaz de escribir o no sabe hacerlo.
 
 ### Alborozadamente
 
 Con extraordinario regocijo o alegría. Extraordinario desorden.
+
+### Albur ***
+
+Contingencia o azar a que se fía el resultado de alguna empresa. *No deja nada al albur.*
 
 ### Alevín ***
 
@@ -204,10 +214,22 @@ Buque de dos palos y vela cuadrada o redonda.
 ### Blandir
 Mover con la mano algo, especialmente un arma, con movimiento trémulo o vibratorio.
 
+### Bulbo ***
+
+Ampolla de vidrio de forma redondeada; p. ej., la de una bombilla o la de un termómetro.
+
+Yema gruesa, por lo común subterránea, cuyas hojas están cargadas con sustancias de reserva. *Sinónimo: bebolla*.
+
 ## C
 
 ### Cadalso **
 Tablado para una ejecución o acto solemne.
+
+### Caldear *
+
+* Excitar, apasionar el ánimo de quien estaba tranquilo e indiferente.
+* Excitar, acalorar, apasionar, enardecer, encender.
+
 
 ### Camastro *
 Lecho pobre y sin aliño.
@@ -686,6 +708,7 @@ Originalmente los pretores eran los generales en jefe del ejército romano, aunq
 ### Prodigalidad ***
 * Profusión, desperdicio, consumo de la propia hacienda, gastando excesivamente.
 * Abundancia o multitud.
+* Derroche, despilfarro, desperdicio.
 
 ### Proeza
 Acción de gran esfuerzo y valor.

@@ -30,7 +30,7 @@ Uno pensaría encontrar **sabiduría** en elegantes manuscritos ancestrales, no 
 
 ![Mundodisco](mundodisco.jpg)
 
-**Mundodisco** es una saga de novelas creada por **Terry Pratchet**,  una obra única en su estilo que combina de forma excelsa lo cómico y lo filosófico, lo mágico y científico, lo mundano y lo transcendental del ser humano. Un continuo conflicto que suele difuminar la linea entre la burla y la crítica, retratando entre líneas la dualidad de la naturaleza humana: una frágil existencia empujada por ambiciones desmedidas (usualmente ridículas para un ser tan fútil).
+**Mundodisco** es una saga de novelas creada por **Terry Pratchett**,  una obra única en su estilo que combina de forma excelsa lo cómico y lo filosófico, lo mágico y científico, lo mundano y lo trascendental del ser humano. Un continuo conflicto que suele difuminar la linea entre la burla y la crítica, retratando entre líneas la dualidad de la naturaleza humana: una frágil existencia empujada por ambiciones desmedidas —a menudo ridículas, viniendo de un ser tan fútil.
 
 Dicho esto, mientras leía el libro **La Verdad**, la XXV novela del **Mundodisco**, me topé con algunas inusitadas lecciones de sabiduría que me he sentido obligado a compartir con ustedes. Éste es el fragmento:
 
@@ -39,3 +39,5 @@ Dicho esto, mientras leía el libro **La Verdad**, la XXV novela del **Mundodisc
 > El mundo pertenece, sin embargo, a aquellos que pueden mirar el vaso y decir: «¿Qué le pasa a este vaso? ¿Perdone? ¡Perdone! ¿Este es mi vaso? Me parece a mí que no. ¡Mi vaso estaba lleno! ¡Y era un vaso más grande!» .
 
 > Y en el otro extremo de la barra, el mundo está lleno del otro tipo de personas, las que tienen el vaso roto, o un vaso derribado por descuido (habitualmente por una de las personas que piden un vaso más grande), o las que ni siquiera tienen vaso, porque estaban al fondo de la muchedumbre y no han conseguido llamar la atención del barman.
+
+Quizá el secreto del Mundodisco —y del nuestro— sea aprender a mirar el vaso con calma, recordando que no todos tuvieron uno que llenar.

@@ -1,5 +1,5 @@
 ---
-title: "Fragmentos de Carl Jung - Parte 1"
+title: "Fragmentos de Carl Jung"
 subtitle: "El espíritu de las profundidades"
 description: '"El espíritu de las profundidades tomó mi entendimiento y todo mi conocimiento y los puso al servicio de lo inexplicable y lo paradójico." -Carl Jung.'
 excerpt: \"El espíritu de las **profundidades** tomó mi **entendimiento** y todo mi **conocimiento** y los puso al servicio de lo **inexplicable** y lo **paradójico**.\" -**Carl Jung**.'

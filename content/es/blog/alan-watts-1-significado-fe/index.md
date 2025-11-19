@@ -1,5 +1,5 @@
 ---
-title: "Fragmentos de Alan Watts - Parte 1"
+title: "Fragmentos de Alan Watts"
 subtitle: "El verdadero significado de la fe"
 description: '"Tener fe es confiar en el agua. Cuando nadas no te agarras al agua, porque si lo haces te hundirás y te ahogarás. En lugar de eso, te relajas y flotas." -Alan Watts.'
 excerpt: \"Tener fe es confiar en el agua. Cuando nadas no te agarras al agua, porque si lo haces te hundirás y te ahogarás. En lugar de eso, te relajas y flotas.\" -**Alan Watts**.

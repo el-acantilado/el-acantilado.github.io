@@ -27,14 +27,6 @@
 </article>
 
 <div class="row justify-content-center">
-  <div class="col-md-12 col-lg-9 blog-section">
-    {{ partial "main/comments.html" . }}
-  </div>
-
-  <div class="col-md-12 col-lg-9 blog-section">
-    {{ partial "main/stats.html" . }}
-  </div>
-
   <div class="col-md-12 col-lg-9 small">
     <h4>{{ i18n "license" }}</h4>
     {{ .Params.License | markdownify}}

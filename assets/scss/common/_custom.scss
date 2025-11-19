@@ -35,8 +35,12 @@ $custom-btn-dark-color: #fff;
 //
 // Styles
 //
+.form-control.is-search {
+  font-size: 1.0rem;
+}
 .navbar-brand {
   position: relative;
+  padding: 0 !important;
 
   & > img {
     position: absolute;

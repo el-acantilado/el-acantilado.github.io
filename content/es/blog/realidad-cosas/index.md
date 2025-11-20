@@ -2,7 +2,7 @@
 title: "¿Qué es la realidad de las cosas?"
 subtitle: "Una reflexión de Escohotado"
 description: '"¿En qué se distingue la realidad de cualquier otra cosa? En el infinito por menor que la rodea." -Antonio Escohotado.'
-excerpt: \"¿En qué se **distingue la realidad** de cualquier otra cosa? En el **infinito por menor que la rodea**." -**Antonio Escohotado**.
+excerpt: \"¿En qué se *distingue la realidad* de cualquier otra cosa? En el *infinito por menor que la rodea*." -**Antonio Escohotado**.
 url: "/blog/realidad-cosas"
 date: 2023-06-23
 lastmod: 2023-06-23

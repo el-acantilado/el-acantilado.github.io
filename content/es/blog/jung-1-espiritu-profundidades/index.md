@@ -2,7 +2,7 @@
 title: "Fragmentos de Carl Jung"
 subtitle: "El espíritu de las profundidades"
 description: '"El espíritu de las profundidades tomó mi entendimiento y todo mi conocimiento y los puso al servicio de lo inexplicable y lo paradójico." -Carl Jung.'
-excerpt: \"El espíritu de las **profundidades** tomó mi **entendimiento** y todo mi **conocimiento** y los puso al servicio de lo **inexplicable** y lo **paradójico**.\" -**Carl Jung**.'
+excerpt: \"El espíritu de las *profundidades* tomó mi *entendimiento* y todo mi *conocimiento* y los puso al servicio de lo *inexplicable* y lo *paradójico*.\" -**Carl Jung**.
 url: "/blog/jung-1-espiritu-profundidades"
 date: 2023-07-25
 lastmod: 2023-07-25

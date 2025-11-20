@@ -145,15 +145,15 @@
     }
   }
 
-  a:not(.btn):not(.nav-link):not(.navbar-brand) {
+  a:not(.btn):not(.nav-link):not(.navbar-brand)  {
     &:hover,
     &:active,
     &:focus {
-      color: $primary !important;
+      color: $primary;
     }
 
     &:not(.docs-link):not(.dropdown-item) {
-      color: $primary !important;
+      color: $primary;
     }
   }
 

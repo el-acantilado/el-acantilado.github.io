@@ -9,19 +9,18 @@ lastmod: 2023-11-28
 draft: false
 weight: 50
 images: ['significado-fe.jpg']
-poststyle: "animation: hue-animated 4s linear infinite;"
-postinnerstyle: "animation: hue-animated 4s linear infinite;"
+poststyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
+postinnerstyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
 categories: ["Fragmentos"]
 tags: ["peliculas", "libertad", "prohibicion"]
 contributors: ["El Acantilado"]
 pinned: false
 homepage: false
-license:  "* Comparte libremente: este artículo está bajo licencia <a href=\"http://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CCBY</a>.
-
-* Las imagenes, videos y otros contenidos son usados sólo con fines informativos/educativos y son propiedad de sus respectivos dueños."
 ---
 
-Si quieres saber más de la **pintura** de arriba <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.
+<p style="text-align:center; font-size:0.85rem; opacity:0.8;margin-top:0;">
+Si quieres saber más sobre a pintura <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.
+</p>
 
 > "Tener fe es confiar en el agua. Cuando nadas no te agarras al agua, porque si lo haces te hundirás y te ahogarás. En lugar de eso, te relajas y flotas." -**Alan Watts**.
 

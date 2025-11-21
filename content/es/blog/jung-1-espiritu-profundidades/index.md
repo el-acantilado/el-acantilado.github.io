@@ -16,14 +16,11 @@ tags: ["profundidad", "psique"]
 contributors: ["El Acantilado"]
 pinned: false
 homepage: false
-license:  "* Comparte libremente: este artículo está bajo licencia <a href=\"http://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CCBY</a>.
-
-* Fragmentos citados hacen parte de El Libro Rojo de Carl Jung.
-
-* Las imágenes son usadas sólo con fines informativos/educativos son propiedad de sus respectivos dueños."
 ---
 
-Si quieres saber más de la **pintura** de arriba <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.
+<p style="text-align:center; font-size:0.85rem; opacity:0.8;margin-top:0;">
+Si quieres saber más sobre a pintura <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.
+</p>
 
 > "El espíritu de las **profundidades** tomó mi **entendimiento** y todo mi **conocimiento** y los puso al servicio de lo **inexplicable** y lo **paradójico**." -**Carl Jung**.
 

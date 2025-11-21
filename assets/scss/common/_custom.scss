@@ -204,6 +204,19 @@ article > h2 {
   }
 }
 
+@keyframes darktolight-animated {
+  0% {
+    filter: brightness(0%);
+  }
+  50% {
+    filter: brightness(100%);
+  }
+  100% {
+    filter: brightness(0%);
+  }
+}
+
+
 body {
   @include custom-colors(
     $custom-color,

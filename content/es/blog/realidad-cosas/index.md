@@ -16,9 +16,6 @@ tags: ["realidad", "infinitud", "pensamientos"]
 contributors: ["El Acantilado"]
 pinned: false
 homepage: false
-license:  "* Comparte libremente: este artículo está bajo licencia <a href=\"http://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CCBY</a>.
-
-* Las imagenes, videos y otros contenidos son usados sólo con fines informativos/educativos y son propiedad de sus respectivos dueños."
 ---
 
 He aquí una potente reflexión del maestro Escohotado, aquel que nos recordaba que **"la experiencia no es suplantable"** y que **"lo complejo es mucho más fértil que lo simple"**. Una invitación -quizá- a no olvidar que lo real es lo sustantivo, que **"el mundo no lo que nos dicen que es, si no lo que vemos con nuestros propios ojos"**.

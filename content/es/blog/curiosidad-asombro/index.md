@@ -16,10 +16,11 @@ tags: ["palabras", "ciencia", "pensamientos"]
 contributors: ["El Acantilado"]
 pinned: false
 homepage: false
-license:  "* Comparte libremente: este artículo está bajo licencia <a href=\"http://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CCBY</a>.
-
-* Las imagenes, videos y otros contenidos son usados sólo con fines informativos/educativos y son propiedad de sus respectivos dueños."
 ---
+
+<p style="text-align:center; font-size:0.85rem; opacity:0.8;margin-top:0;">
+Si quieres saber más sobre a pintura <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.
+</p>
 
 > "El pensamiento corrompe el lenguaje y **el lenguaje también puede corromper el pensamiento**" -George Orwell.
 
@@ -38,4 +39,3 @@ Duración **58 segundos**. Transcripción:
 
 > "**Uno no puede dejar de asombrarse** cuando contempla los misterios de la eternidad, de la vida, de la maravillosa estructura de la realidad. Es suficiente tratar de comprender un poquito de este misterio cada día; **nunca perder esa sagrada curiosidad**" -**Albert Einstein**.
 
-Si quieres saber más de las **pinturas** que aparecen en este artículo <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.

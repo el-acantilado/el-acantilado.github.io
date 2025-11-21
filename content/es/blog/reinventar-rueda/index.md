@@ -16,11 +16,11 @@ tags: ["inventar", "imaginación", "creatividad"]
 contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false
-license:  "* Comparte libremente: este artículo está bajo licencia <a href=\"http://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CCBY</a>.
-
-* Las imagenes, videos y otros contenidos son usados sólo con fines informativos/educativos y son propiedad de sus respectivos dueños."
 ---
 
+<p style="text-align:center; font-size:0.85rem; opacity:0.8;margin-top:0;">
+Si quieres saber más sobre a pintura <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.
+</p>
 
 **Guiar** y **arruinar** son dos palabras que de antemano no parecerían tener nada en común, sin embargo, en algún momento todos experimentaremos la delgada línea que las puede llegar a separar: **la intención**. Un consejo o una mera crítica por lo general están inclinados (conscientemente o no) en alguno de estos dos sentidos.
 
@@ -59,5 +59,3 @@ Considero que no sobra aclarar que esta no es una llamada a una especie de <a hr
 ![escohotado frase mundo](escohotado-mundo.jpg)
 
 > "El mundo no es lo que lo que nos dicen que es, sino lo que vemos con nuestros propios ojos." -**Antonio Escohotado**.
-
-Si quieres saber más de las **pinturas** que aparecen en este artículo <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.

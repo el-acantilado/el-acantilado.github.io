@@ -16,11 +16,6 @@ tags: ["enseñanzas", "mundodisco"]
 contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false
-license:  "* Comparte libremente: este artículo está bajo licencia <a href=\"http://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CCBY</a>.
-
-* Fragmentos citados hacen parte del libro La Verdad de Terry Pratchett.
-
-* Las imagenes son usadas sólo con fines informativos/educativos son propiedad de sus respectivos dueños. <a href=\"https://www.discworldemporium.com/illustrating-the-ankh-morpork-city-watch/\" target=\"_blank\">Más información</a> acerca de la imagen de portada.</li></ul>"
 ---
 
 

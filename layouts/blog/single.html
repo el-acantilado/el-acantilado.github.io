@@ -26,14 +26,6 @@
 </div>
 </article>
 
-<div class="row justify-content-center">
-  <div class="col-md-12 col-lg-9 small">
-    <h4>{{ i18n "license" }}</h4>
-    {{ .Params.License | markdownify}}
-  </div>
-</div>
-
-
 {{ $related := .Site.RegularPages.Related . | first 3 -}}
 {{ with $related -}}
 <div class="related-posts">

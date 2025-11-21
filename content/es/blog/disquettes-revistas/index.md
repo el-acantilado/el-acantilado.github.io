@@ -16,9 +16,6 @@ tags: ["nostalgia", "juegos", "msdos"]
 contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false
-license:  "* Comparte libremente: este artículo está bajo licencia <a href=\"http://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CCBY</a>.
-
-* Las imagenes, videos y otros contenidos son usados sólo con fines informativos/educativos y son propiedad de sus respectivos dueños."
 ---
 
 > "Sin dejarse llevar por el *torrentum* de productos, muchos de ellos de baja calidad, que invaden el mercado y que no hacen más que repetir los éxitos pasados, **las páginas de nuestra revista buscan**, ante todo y en lo posible, **lo novedoso**.\" 1995, Editorial de la PC-Player Número 5.

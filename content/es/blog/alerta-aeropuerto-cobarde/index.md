@@ -17,9 +17,6 @@ tags: ["peliculas", "libertad", "prohibicion"]
 contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false
-license:  "* Comparte libremente: este artículo está bajo licencia <a href=\"http://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CCBY</a>.
-
-* Las imagenes, videos y otros contenidos son usados sólo con fines informativos/educativos y son propiedad de sus respectivos dueños."
 ---
 
 > "Todo listo para dirigirme al lugar (aeropuerto) en el cual el Estado y su poder político más <a href="/docs/espanol/palabras/#vejar" target="_blank">veja</a> a los individuos (la cantidad de papeles y controles crecen década a década)." -**Diego Giacomini**.

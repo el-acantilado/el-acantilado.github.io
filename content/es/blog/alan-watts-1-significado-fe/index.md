@@ -19,7 +19,7 @@ homepage: false
 ---
 
 <p style="text-align:center; font-size:0.85rem; opacity:0.8;margin-top:0;">
-Si quieres saber más sobre a pintura <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.
+Si quieres saber más sobre a pintura <a href="/docs/compilaciones/pinturas/" target="_blank">sigue este enlace</a>.
 </p>
 
 > "Tener fe es confiar en el agua. Cuando nadas no te agarras al agua, porque si lo haces te hundirás y te ahogarás. En lugar de eso, te relajas y flotas." -**Alan Watts**.

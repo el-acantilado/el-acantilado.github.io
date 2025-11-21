@@ -19,7 +19,7 @@ homepage: false
 ---
 
 <p style="text-align:center; font-size:0.85rem; opacity:0.8;margin-top:0;">
-Si quieres saber más sobre a pintura <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.
+Si quieres saber más sobre a pintura <a href="/docs/compilaciones/pinturas/" target="_blank">sigue este enlace</a>.
 </p>
 
 **Guiar** y **arruinar** son dos palabras que de antemano no parecerían tener nada en común, sin embargo, en algún momento todos experimentaremos la delgada línea que las puede llegar a separar: **la intención**. Un consejo o una mera crítica por lo general están inclinados (conscientemente o no) en alguno de estos dos sentidos.

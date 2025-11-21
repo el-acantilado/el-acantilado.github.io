@@ -12,7 +12,7 @@ images: ['physician.jpg']
 poststyle: "animation: darktolight-animated 10s infinite; "
 postinnerstyle: "animation: darktolight-animated 10s infinite; "
 categories: ["Fragmentos"]
-tags: ["peliculas", "libertad", "prohibicion"]
+tags: ["reflexiones", "humano/maquina", "salud"]
 contributors: ["Juan Felipe Cañizares"]
 pinned: false
 homepage: false
@@ -20,7 +20,7 @@ homepage: false
 ---
 
 <p style="text-align:center; font-size:0.85rem; opacity:0.8;margin-top:0;">
-Si quieres saber más sobre a pintura <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.
+Si quieres saber más sobre a pintura <a href="/docs/compilaciones/pinturas/" target="_blank">sigue este enlace</a>.
 </p>
 
 > *Texto creado en colaboración entre humano y máquina.*

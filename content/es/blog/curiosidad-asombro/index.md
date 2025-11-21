@@ -19,7 +19,7 @@ homepage: false
 ---
 
 <p style="text-align:center; font-size:0.85rem; opacity:0.8;margin-top:0;">
-Si quieres saber más sobre a pintura <a href="/docs/arte/pinturas/" target="_blank">sigue este enlace</a>.
+Si quieres saber más sobre a pintura <a href="/docs/compilaciones/pinturas/" target="_blank">sigue este enlace</a>.
 </p>
 
 > "El pensamiento corrompe el lenguaje y **el lenguaje también puede corromper el pensamiento**" -George Orwell.

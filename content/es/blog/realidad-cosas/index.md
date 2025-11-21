@@ -1,8 +1,8 @@
 ---
-title: "¿Qué es la realidad de las cosas?"
-subtitle: "Una reflexión de Escohotado"
-description: '"¿En qué se distingue la realidad de cualquier otra cosa? En el infinito por menor que la rodea." -Antonio Escohotado.'
-excerpt: \"¿En qué se *distingue la realidad* de cualquier otra cosa? En el *infinito por menor que la rodea*." -**Antonio Escohotado**.
+title: "Sobre lo real"
+subtitle: "Y el infinito por menor"
+description: 'Un llamado a lo real: a experimentar, sin intermediarios, el milagro inagotable de la existencia.'
+excerpt: 'Un llamado a lo real: a experimentar, sin intermediarios, el milagro inagotable de la existencia.'
 url: "/blog/realidad-cosas"
 date: 2023-06-23
 lastmod: 2023-06-23
@@ -18,7 +18,7 @@ pinned: false
 homepage: false
 ---
 
-He aquí una potente reflexión del maestro Escohotado, aquel que nos recordaba que **"la experiencia no es suplantable"** y que **"lo complejo es mucho más fértil que lo simple"**. Una invitación -quizá- a no olvidar que lo real es lo sustantivo, que **"el mundo no lo que nos dicen que es, si no lo que vemos con nuestros propios ojos"**.
+A veces basta una sola frase para volver a ordenar el mundo interior. Aquí Escohotado apunta hacia algo sencillo y enorme a la vez: lo real se desborda a cualquier fantasía. Un recordatorio de que **"la experiencia no es suplantable"** y que **"lo complejo es mucho más fértil que lo simple"**. Una invitación -quizá- a no olvidar que lo real es lo sustantivo.
 
 ## Video (con música)
 
@@ -30,7 +30,6 @@ He aquí una potente reflexión del maestro Escohotado, aquel que nos recordaba 
 
 ## Transcripción
 
-```md
 El ser y la verdad de las cosas.
 ¿Que es la verdad de las cosas?
 La realidad de las cosas.
@@ -64,7 +63,7 @@ a un microscopio de barrido electrónico
 encontraremos ahí semi-continentes, como Tasmania.
 
 Esa es la realidad. Lo inagotable.
-```
+
 
 ## Fragmento original
 

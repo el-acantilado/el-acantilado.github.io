@@ -41,8 +41,9 @@
       {{ partial "content/bg-image.html" . }}
       <div class="card-body">
         <article>
-          <h2 class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
-          <p>{{ .Params.excerpt | markdownify  }}</p>
+          <h2 class="h3 mb-0 text-center"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
+          <h3 class="h4 mt-0 text-center">{{ .Params.Subtitle }}</h3>
+          <p>{{ .Params.excerpt | markdownify }}</p>
         </article>
 
       </div>

@@ -1,8 +1,8 @@
 ---
 title: "Fragmentos de Carl Jung"
 subtitle: "El espíritu de las profundidades"
-description: '"El espíritu de las profundidades tomó mi entendimiento y todo mi conocimiento y los puso al servicio de lo inexplicable y lo paradójico." -Carl Jung.'
-excerpt: \"El espíritu de las *profundidades* tomó mi *entendimiento* y todo mi *conocimiento* y los puso al servicio de lo *inexplicable* y lo *paradójico*.\" -**Carl Jung**.
+description: 'Una exploración de lo atemporal. Un recordatorio de que los dioses aún viven en nosotros.'
+excerpt: Una exploración de lo atemporal. Un recordatorio de que los dioses aún viven en nosotros.
 url: "/blog/jung-1-espiritu-profundidades"
 date: 2023-07-25
 lastmod: 2023-07-25
@@ -22,9 +22,9 @@ homepage: false
 Si quieres saber más sobre a pintura <a href="/docs/compilaciones/pinturas/" target="_blank">sigue este enlace</a>.
 </p>
 
-> "El espíritu de las **profundidades** tomó mi **entendimiento** y todo mi **conocimiento** y los puso al servicio de lo **inexplicable** y lo **paradójico**." -**Carl Jung**.
+> *Texto creado en colaboración entre humano y máquina.*
 
-Mientras navegaba en internet me encontré en el más inusitado de los lugares -una red social- con un extraño y profundo fragmento del mítico **Libro Rojo de Carl Jung**, uno de las mentes más brillantes del siglo XX. A continuación la traducción de dicho fragmento (así como la versión original en inglés).
+Mientras navegaba sin buscar nada concreto, me encontré con uno de esos fragmentos que detienen la marcha. Era una cita del Libro Rojo de Carl Jung, un texto improbable, escrito en el punto más extraño y fértil de su vida. Lo comparto aquí —junto con su traducción y el original en inglés— porque resume con una claridad inquietante esa fuerza que Jung llamó el espíritu de las profundidades: una voz antigua que contradice al *espíritu de este tiempo* y que devuelve todo —pensamiento, orgullo, ciencia— al servicio de lo inexplicable. Ese contraste sigue revelando algo esencial, hoy más que nunca.
 
 ![fotografía de Carl Jung](carl-jung.webp) *Fotografía de **Carl Jung** en blanco y negro.*
 

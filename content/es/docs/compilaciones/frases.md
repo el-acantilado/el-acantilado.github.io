@@ -11,6 +11,11 @@ weight: 102
 toc: true
 ---
 
+## Humanismo
+
+> "El mundo no es lo que lo que nos dicen que es, sino lo que vemos con nuestros propios ojos." -**Antonio Escohotado**.
+
+
 ## Libertad
 
 > "**Toda pena** (dice el gran Montesquieu) que no se deriva de la **absoluta necesidad**, es **tiránica**." -**Cesare Beccaria**.

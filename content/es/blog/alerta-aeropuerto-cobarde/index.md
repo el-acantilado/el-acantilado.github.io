@@ -1,8 +1,8 @@
 ---
 title: "El Expreso de media noche"
 subtitle: "Películas fascinantes"
-description: '"Todo listo para dirigirme al lugar (aeropuerto) en el cual el Estado y su poder político más veja a los individuos (la cantidad de papeles y controles crecen década a década)." -Diego Giacomini.'
-excerpt: \"*Toda pena* (dice el gran Montesquieu) que no se deriva de la *absoluta necesidad*, es *tiránica*.\" -**Cesare Beccaria****.
+description: 'Algunas historias sobreviven por la verdad que revelan cuando todo está perdido. Esta es una mirada breve a una de ellas.'
+excerpt: Algunas historias sobreviven por la verdad que revelan cuando todo está perdido. Esta es una mirada breve a una de ellas.
 url: "/blog/alerta-aeropuerto-cobarde"
 date: 2025-11-21
 lastmod: 2025-11-21
@@ -12,8 +12,8 @@ images: ['individuo.jpg']
 postclass: bg-image-contain
 poststyle: "animation: hue-animated 4s linear infinite;"
 postinnerstyle: "animation: hue-animated 4s linear infinite;"
-categories: ["Reflexiones"]
-tags: ["peliculas", "libertad", "prohibicion"]
+categories: ["Películas"]
+tags: ["peliculas", "libertad", "prohibicion", "humano/máquina"]
 contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false

@@ -1,8 +1,8 @@
 ---
-title: "Manifiesto del Arúspice Moderno"
-subtitle: "Por quienes leen las líneas del cuerpo y del alma"
-description: 'Así como el arúspice leía las venas de la estepa, el médico funcional lee los cauces del intestino, del hígado, del sistema nervioso.'
-excerpt: Así como **el arúspice** leía las venas de la estepa, **el médico funcional** lee los cauces del intestino, del hígado, del sistema nervioso.
+title: "El Arúspice Moderno"
+subtitle: "Arquetipos de una nueva era"
+description: 'Un manifiesto para el médico moderno, que aprende a leer los ríos secretos del cuerpo: allí donde el alma murmura antes de hablar.'
+excerpt: 'Un manifiesto para el médico moderno, que aprende a leer los ríos secretos del cuerpo: allí donde el alma murmura antes de hablar.'
 url: "/blog/aruspice"
 date: 2025-11-20
 lastmod: 2025-11-20
@@ -11,8 +11,8 @@ weight: 50
 images: ['physician.jpg']
 poststyle: "animation: darktolight-animated 10s infinite; "
 postinnerstyle: "animation: darktolight-animated 10s infinite; "
-categories: ["Fragmentos"]
-tags: ["reflexiones", "humano/maquina", "salud"]
+categories: ["Reflexiones"]
+tags: ["salud", "humano/máquina"]
 contributors: ["Juan Felipe Cañizares"]
 pinned: false
 homepage: false

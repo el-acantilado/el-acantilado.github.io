@@ -1,8 +1,8 @@
 ---
 title: "Fragmentos de Alan Watts"
 subtitle: "El verdadero significado de la fe"
-description: '"Tener fe es confiar en el agua. Cuando nadas no te agarras al agua, porque si lo haces te hundirás y te ahogarás. En lugar de eso, te relajas y flotas." -Alan Watts.'
-excerpt: \"Tener *fe es confiar en el agua*. Cuando nadas no te agarras al agua, porque si lo haces te hundirás y te ahogarás. En lugar de eso, te relajas y flotas.\" -**Alan Watts**.
+description: 'Una confianza flexible, sin rigidez ni dogmas, que invita a soltar el control y abrirse a la realidad tal cual es.'
+excerpt: 'Una confianza flexible, sin rigidez ni dogmas, que invita a soltar el control y abrirse a la realidad tal cual es.'
 url: "/blog/alan-watts-1-significado-fe"
 date: 2023-11-28
 lastmod: 2023-11-28
@@ -12,8 +12,8 @@ images: ['significado-fe.jpg']
 poststyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
 postinnerstyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
 categories: ["Fragmentos"]
-tags: ["peliculas", "libertad", "prohibicion"]
-contributors: ["El Acantilado"]
+tags: ["espiritu"]
+contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false
 ---
@@ -22,12 +22,16 @@ homepage: false
 Si quieres saber más sobre a pintura <a href="/docs/compilaciones/pinturas/" target="_blank">sigue este enlace</a>.
 </p>
 
-> "Tener fe es confiar en el agua. Cuando nadas no te agarras al agua, porque si lo haces te hundirás y te ahogarás. En lugar de eso, te relajas y flotas." -**Alan Watts**.
+> Texto creado en colaboración entre humano y máquina.
 
+La palabra **fe** suele cargarse de solemnidad, dogma y obediencia. Pero para **Alan Watts**, ese maestro de lo simple y lo profundo, la fe no tiene nada que ver con aferrarse a una creencia.
 
+La fe —dice— es como el agua:
+si intentas agarrarla, te hundes;
+si te entregas, flotas.
 
+En este fragmento, Watts desmonta la confusión entre creer y tener fe, y muestra que la verdadera confianza no nace del control, sino de la apertura.
 
-Hoy compartimos unos fragmentos en los que el profundo y divertido filósofo **Alan Watts** habla sobre lo que a su juicio es el verdadero significado de la palabra **fe**.
 
 ![fotografía de Alan Watts](alan-watts.jpg) *Fotografía de **Alan Watts** en blanco y negro.*
 

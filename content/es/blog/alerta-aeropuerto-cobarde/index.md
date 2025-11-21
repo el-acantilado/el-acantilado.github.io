@@ -21,11 +21,11 @@ homepage: false
 
 > *Texto creado en colaboración entre humano y máquina.*
 
-> **Contiene spoilers** pero es sobre todo **un breve recuerdo** dizfrazado de crónica.
+> **Contiene spoilers** pero es sobre todo **un breve recuerdo** dizfrazado de mini-crónica.
 
 Hay historias que ardieron hace décadas, pero que dejaron en el aire una ceniza que quema con sólo acercarse. **Expreso de Medianoche** es una de ellas.
 
-En lo más profundo de esas cenizas, el monólogo de Billy Hayes ante el tribunal. **No es un alegato de inocencia**. Tampoco un reclamo moral. Es algo más elemental.
+En lo más profundo de esas cenizas está el monólogo de Billy Hayes ante el tribunal. La causa de su detención —un intento fallido por salir del país con unos paquetes de hachís durante los peores años de la prohibición— había bastado para sumir su vida en un infierno. **No es un alegato de inocencia**. Tampoco un reclamo moral. Es algo más elemental.
 
 Lo escuché hablar y sentí que no estaba oyendo un discurso, sino a un hombre cuyo espíritu había sido quebrado. No intentaba convencer. No buscaba simpatía. No quería enseñar nada. Sólo un momento así podía contener la verdad más honesta de toda la película:
 

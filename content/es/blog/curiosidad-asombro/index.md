@@ -1,8 +1,8 @@
 ---
-title: "Sobre el asombro y la curiosidad"
-subtitle: "O la importancia de las palabras"
-description: '"(...)Ahí es donde está la mano del mediocre, que intenta recortarle a los demás la vida y decirles por donde tienen que ir. Negarse a que la realidad es proceso e insistir en que la realidad es definición y dogma" -Antonio Escohotado.'
-excerpt: \"(...)*Ahí es donde está la mano del mediocre*, que intenta *recortarle a los demás la vida* y *decirles por donde tienen que ir*.\" -**Escohotado**.
+title: "Asombro y curiosidad"
+subtitle: "Fragmentos de Escota"
+description: 'Una defensa del asombro frente a quienes pretenden recortar el mundo a punta de definiciones.'
+excerpt: Una defensa del asombro frente a quienes pretenden recortar el mundo a punta de definiciones.
 url: "/blog/curiosidad-asombro"
 date: 2023-03-06
 lastmod: 2023-03-06

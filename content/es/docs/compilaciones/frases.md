@@ -25,3 +25,6 @@ toc: true
 > "(...)yo querría —eso lo he dicho muchas veces— un mínimo de Estado y **un máximo de individuo**. Pero, quizá sea preciso esperar... no sé si algunos decenios o algunos siglos —lo cual históricamente no es nada—, aunque yo, ciertamente no llegaré a ese mundo sin Estados. Para eso se necesitaría **una humanidad ética**, y además, **una humanidad intelectualmente más fuerte de lo que es ahora, de lo que somos nosotros**; ya que, sin duda, somos muy inmorales y muy poco inteligentes comparados con esos hombres del porvenir (...)." -**Jorge Luis Borges**.
 
 > "**Toda pena** (dice el gran Montesquieu) que no se deriva de la **absoluta necesidad**, es **tiránica**." -**Cesare Beccaria**.
+
+
+> "La anarquía no es garantia de que algunas personas no matarán, lastimarán, secuestrarán, defraudarán, o robarán de otros. **El gobierno es la garantía de que algunos lo harán**" -Gustave de Molinari.

@@ -1,6 +1,6 @@
 ---
-title: "Sobre lo real"
-subtitle: "Y el infinito por menor"
+title: "El infinito por menor"
+subtitle: "Fragmentos de Escota"
 description: 'Un llamado a lo real: a experimentar, sin intermediarios, el milagro inagotable de la existencia.'
 excerpt: 'Un llamado a lo real: a experimentar, sin intermediarios, el milagro inagotable de la existencia.'
 url: "/blog/realidad-cosas"

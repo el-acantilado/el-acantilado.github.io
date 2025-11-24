@@ -85,4 +85,4 @@ Y en ese acorde, **el miedo se disuelve**.
 
 Porque hay observador dentro del fuego, y el fuego puede doler, pero ya no quema.
 
-
+![fin](fin.jpg)

@@ -20,7 +20,7 @@ toc: true
 * [Imagen](https://commons.wikimedia.org/wiki/File:%D0%98%D0%B2%D0%B0%D0%BD_%D0%9A._%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_-_%D0%9E%D1%82_%D0%9C%D0%BB%D0%B5%D1%82%D1%8B_%D0%B4%D0%BE_%D0%93%D1%83%D0%B4%D0%B0%D1%83%D1%80%D0%B8_(1868).jpg)
 
 
-## Sobre el asombro y la curiosidad
+## Asombro y curiosidad - Escohotado
 
 ![Fantasía](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Petrov-Vodkin._Fantasy.jpg/613px-Petrov-Vodkin._Fantasy.jpg)
 * Petrov-Vodkin. Fantasy.
@@ -32,7 +32,7 @@ toc: true
 * [Imagen](https://commons.wikimedia.org/wiki/File:%D0%98%D0%B2%D0%B0%D0%BD_%D0%9A._%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_-_%D0%9D%D0%B5%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2_%281845%29.jpg)
 
 
-## Sobre quiénes dicen que todo está inventado
+## No todo está terminado: Inventores por naturaleza
 
 ![Rebus saliendo de un sueño](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rebus_au_sortir_d%27un_songe.jpg/800px-Rebus_au_sortir_d%27un_songe.jpg)
 * Didier Mazuru - Rebus au sortir d'un songe (1983 - 1984).
@@ -43,7 +43,7 @@ toc: true
 * [Imagen](https://commons.wikimedia.org/wiki/File:Allis_hoisting_engine_(New_Catechism_of_the_Steam_Engine,_1904).jpg)
 
 
-## Fragmentos de Carl Jung - Parte 1: El espíritu de las profundidades
+## La sombra de Dios - Jung
 
 ![The brain (stoned) 5 by Hanno Karlhuber](https://upload.wikimedia.org/wikipedia/commons/5/5f/The_brain_%28stoned%29_5_by_Hanno_Karlhuber.jpg)
 * The brain (stoned) 5 by Hanno Karlhuber (1983 - 1984).
@@ -51,8 +51,20 @@ toc: true
 
 
 
-## Fragmentos de Alan Watts - Parte 1: El verdadero significado de la fe
+## El significado de la fe - Watts
 
 ![Hendrik Voogd - Italian landscape with Umbrella Pines](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hendrik_Voogd_-_Italian_landscape_with_Umbrella_Pines.jpg/800px-Hendrik_Voogd_-_Italian_landscape_with_Umbrella_Pines.jpg?20140121144540)
 * Hendrik Voogd - Italian landscape with Umbrella Pines (1807).
 * [Imagen](https://commons.wikimedia.org/wiki/File:Hendrik_Voogd_-_Italian_landscape_with_Umbrella_Pines.jpg)
+
+## El Arúspice Moderno
+
+![The Physician — Gerrit Dou (1653)](https://upload.wikimedia.org/wikipedia/commons/d/db/Gerard_Dou_-_The_Physician_-_Christchurch_Art_Gallery.jpg)
+* The Physician — Gerrit Dou (1653)
+* [Imagen](https://commons.wikimedia.org/wiki/File:Gerard_Dou_-_The_Physician_-_Christchurch_Art_Gallery.jpg)
+
+## El Entre
+
+![The Ancient of Days - William Blake (1794)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Europe_a_Prophecy%2C_copy_D%2C_object_1_%28Bentley_1%2C_Erdman_i%2C_Keynes_i%29_British_Museum.jpg/500px-Europe_a_Prophecy%2C_copy_D%2C_object_1_%28Bentley_1%2C_Erdman_i%2C_Keynes_i%29_British_Museum.jpg)
+* The Ancient of Days - William Blake (1794)
+* [Imagen](https://commons.wikimedia.org/wiki/File:Europe_a_Prophecy,_copy_D,_object_1_(Bentley_1,_Erdman_i,_Keynes_i)_British_Museum.jpg)

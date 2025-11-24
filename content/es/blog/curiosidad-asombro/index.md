@@ -12,7 +12,7 @@ images: ['curiosidad-asombro.jpg']
 poststyle: "animation: sepia-animated 2s ease-in-out infinite alternate; "
 postinnerstyle: "animation: sepia-animated 2s ease-in-out infinite alternate; "
 categories: ["Fragmentos"]
-tags: ["palabras", "ciencia", "pensamientos"]
+tags: ["espíritu", "fragmentos"]
 contributors: ["El Acantilado"]
 pinned: false
 homepage: false

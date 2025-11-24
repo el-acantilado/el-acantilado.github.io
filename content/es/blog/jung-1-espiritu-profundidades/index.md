@@ -1,6 +1,6 @@
 ---
-title: "Fragmentos de Carl Jung"
-subtitle: "El espíritu de las profundidades"
+title: "La sombra de Dios"
+subtitle: "Fragmentos de Carl Jung"
 description: 'Una exploración de lo atemporal. Un recordatorio de que los dioses aún viven en nosotros.'
 excerpt: Una exploración de lo atemporal. Un recordatorio de que los dioses aún viven en nosotros.
 url: "/blog/jung-1-espiritu-profundidades"
@@ -12,7 +12,7 @@ images: ['jung-espiritu-profundidades.jpg']
 poststyle: "animation: hue-animated 3s linear infinite; "
 postinnerstyle: "animation: hue-animated 3s linear infinite;"
 categories: ["Fragmentos"]
-tags: ["profundidad", "psique"]
+tags: ["espíritu", "fragmentos"]
 contributors: ["El Acantilado"]
 pinned: false
 homepage: false
@@ -22,7 +22,7 @@ homepage: false
 Si quieres saber más sobre a pintura <a href="/docs/compilaciones/pinturas/" target="_blank">sigue este enlace</a>.
 </p>
 
-> *Texto creado en colaboración entre humano y máquina.*
+> *Introducción creada en colaboración entre humano y máquina.*
 
 Mientras navegaba sin buscar nada concreto, me encontré con uno de esos fragmentos que detienen la marcha. Era una cita del Libro Rojo de Carl Jung, un texto improbable, escrito en el punto más extraño y fértil de su vida. Lo comparto aquí —junto con su traducción y el original en inglés— porque resume con una claridad inquietante esa fuerza que Jung llamó el espíritu de las profundidades: una voz antigua que contradice al *espíritu de este tiempo* y que devuelve todo —pensamiento, orgullo, ciencia— al servicio de lo inexplicable. Ese contraste sigue revelando algo esencial, hoy más que nunca.
 

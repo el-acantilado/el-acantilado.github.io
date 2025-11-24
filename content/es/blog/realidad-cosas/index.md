@@ -12,7 +12,7 @@ images: ['realidad-cosas.jpg']
 poststyle: "animation: hue-animated 4s ease-in-out infinite alternate; "
 postinnerstyle: "animation: hue-animated 4s ease-in-out infinite alternate; "
 categories: ["Fragmentos"]
-tags: ["realidad", "infinitud", "pensamientos"]
+tags: ["espíritu", "fragmentos"]
 contributors: ["El Acantilado"]
 pinned: false
 homepage: false

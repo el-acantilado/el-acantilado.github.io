@@ -13,7 +13,7 @@ postclass: bg-image-contain
 poststyle: "animation: hue-animated 4s linear infinite;"
 postinnerstyle: "animation: hue-animated 4s linear infinite;"
 categories: ["Películas"]
-tags: ["peliculas", "libertad", "prohibicion", "humano/máquina"]
+tags: ["peliculas", "libertad", "humano/máquina"]
 contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false

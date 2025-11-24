@@ -11,8 +11,8 @@ weight: 50
 images: ['tipos-personas.jpg']
 poststyle: "animation: sepia-animated 2s ease-in-out infinite alternate; "
 postinnerstyle: "animation: sepia-animated 2s ease-in-out infinite alternate; "
-categories: ["Reflexiones"]
-tags: ["enseñanzas", "mundodisco"]
+categories: ["Fragmentos"]
+tags: ["espíritu", "fragmentos"]
 contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false

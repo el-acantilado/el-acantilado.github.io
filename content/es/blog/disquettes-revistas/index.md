@@ -12,7 +12,7 @@ images: ['revistas-disquetes.jpg']
 poststyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
 postinnerstyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
 categories: ["Remembranzas"]
-tags: ["nostalgia", "juegos", "msdos"]
+tags: ["juegos", "ordenadores"]
 contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false

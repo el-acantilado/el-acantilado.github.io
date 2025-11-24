@@ -12,7 +12,7 @@ images: ['valor-promesa.jpg']
 poststyle: "animation: grayscale-animated 3s linear infinite alternate; "
 postinnerstyle: "animation: grayscale-animated 3s linear infinite alternate; "
 categories: ["Reflexiones"]
-tags: ["peliculas", "libertad", "opresión"]
+tags: ["peliculas", "libertad", "humano/máquina"]
 contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false

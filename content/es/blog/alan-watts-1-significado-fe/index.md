@@ -1,6 +1,6 @@
 ---
-title: "Fragmentos de Alan Watts"
-subtitle: "El verdadero significado de la fe"
+title: "El significado de fe"
+subtitle: "Fragmentos de Alan Watts"
 description: 'Una confianza flexible, sin rigidez ni dogmas, que invita a soltar el control y abrirse a la realidad tal cual es.'
 excerpt: 'Una confianza flexible, sin rigidez ni dogmas, que invita a soltar el control y abrirse a la realidad tal cual es.'
 url: "/blog/alan-watts-1-significado-fe"
@@ -12,7 +12,7 @@ images: ['significado-fe.jpg']
 poststyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
 postinnerstyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
 categories: ["Fragmentos"]
-tags: ["espiritu"]
+tags: ["espíritu", "fragmentos"]
 contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false
@@ -22,7 +22,7 @@ homepage: false
 Si quieres saber más sobre a pintura <a href="/docs/compilaciones/pinturas/" target="_blank">sigue este enlace</a>.
 </p>
 
-> Texto creado en colaboración entre humano y máquina.
+> Introducción creada en colaboración entre humano y máquina.
 
 La palabra **fe** suele cargarse de solemnidad, dogma y obediencia. Pero para **Alan Watts**, ese maestro de lo simple y lo profundo, la fe no tiene nada que ver con aferrarse a una creencia.
 

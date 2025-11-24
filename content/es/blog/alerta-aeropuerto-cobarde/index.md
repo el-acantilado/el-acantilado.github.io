@@ -10,8 +10,8 @@ draft: false
 weight: 50
 images: ['individuo.jpg']
 postclass: bg-image-contain
-poststyle: "animation: hue-animated 4s linear infinite;"
-postinnerstyle: "animation: hue-animated 4s linear infinite;"
+poststyle: "animation: sepia-animated 2s ease-in-out infinite alternate; "
+postinnerstyle: "animation: sepia-animated 2s ease-in-out infinite alternate; "
 categories: ["Películas"]
 tags: ["peliculas", "libertad", "humano/máquina"]
 contributors: ["Daniel Cañizares"]

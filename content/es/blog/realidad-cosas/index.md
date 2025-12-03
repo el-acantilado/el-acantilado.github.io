@@ -30,36 +30,36 @@ A veces basta una sola frase para volver a ordenar el mundo interior. Aquí Esco
 
 ## Transcripción
 
-El ser y la verdad de las cosas.
-¿Que es la verdad de las cosas?
+El ser y la verdad de las cosas.<br/>
+¿Que es la verdad de las cosas?<br/>
 La realidad de las cosas.
 
-¿En qué se distingue la realidad
-de cualquier otra cosa?
+¿En qué se distingue la realidad<br/>
+de cualquier otra cosa?<br/>
 En el infinito por menor que la rodea.
 
-Toda cosa real es interminable
-en el espacio, en el tiempo,
+Toda cosa real es interminable<br/>
+en el espacio, en el tiempo,<br/>
 en los detalles.
 
-Toda cosa fantaseada
-por ejemplo una utopía, un sueño, una fantasía...
+Toda cosa fantaseada<br/>
+por ejemplo una utopía, un sueño, una fantasía...<br/>
 a que ahí no hay infinitud por ninguna parte
 
-Preguntas al personaje que sale del sueño
-Oye, ¿de qué color son sus calcetines?
+Preguntas al personaje que sale del sueño<br/>
+Oye, ¿de qué color son sus calcetines?<br/>
 Y no lo sabes porque no es real.
 
 Cualquier cosa real aunque sea un fragmento...
 
-Fíjate cuando entre un rayo de sol en una habitación
-y entonces en ese rayo de repente aparecen
-cositas que flotan...
+Fíjate cuando entre un rayo de sol en una habitación<br/>
+y entonces en ese rayo de repente aparecen<br/>
+cositas que flotan...<br/>
 ¿Te habrás dado cuenta no?
 
-Todas se mueven. Todas.
-Si cada una de ellas la sometemos
-a un microscopio de barrido electrónico
+Todas se mueven. Todas.<br/>
+Si cada una de ellas la sometemos<br/>
+a un microscopio de barrido electrónico<br/>
 encontraremos ahí semi-continentes, como Tasmania.
 
 Esa es la realidad. Lo inagotable.

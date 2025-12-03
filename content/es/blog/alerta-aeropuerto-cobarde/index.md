@@ -3,7 +3,7 @@ title: "El Expreso de media noche"
 subtitle: "Películas fascinantes"
 description: 'Algunas historias sobreviven por la verdad que revelan cuando todo está perdido. Esta es una mirada breve a una de ellas.'
 excerpt: Algunas historias sobreviven por la verdad que revelan cuando todo está perdido. Esta es una mirada breve a una de ellas.
-url: "/blog/alerta-aeropuerto-cobarde"
+url: "/blog/expreso-medianoche"
 date: 2025-11-21
 lastmod: 2025-11-21
 draft: false
@@ -23,7 +23,7 @@ homepage: false
 
 > **Contiene spoilers** pero es sobre todo es **un breve recuerdo** disfrazado de mini-crónica.
 
-Hay historias que ardieron hace décadas, pero que dejaron en el aire una ceniza que quema con sólo acercarse. **Expreso de Medianoche**, basada en hechos reales, es una de ellas.
+Hay historias que ardieron hace décadas, pero la ceniza que dejaron en el aire quema con sólo acercarse. **Expreso de Medianoche**, *basada en hechos reales*, es una de ellas.
 
 En lo más profundo de esas cenizas está el monólogo de Billy Hayes ante el tribunal. La causa de su detención —un intento fallido por salir del país con unos paquetes de hachís durante los peores años de la prohibición— había bastado para sumir su vida en un infierno. **No es un alegato de inocencia**. Tampoco un reclamo moral. Es algo más elemental.
 

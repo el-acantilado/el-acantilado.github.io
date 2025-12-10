@@ -11,7 +11,12 @@ weight: 103
 toc: true
 ---
 
-## Psy
+## Psicología
 
 > Cuando el hombre crece, el niño no necesita perdón.
 Solo necesita ser honrado por haberlo traído hasta aquí.
+
+## Historia/espíritu
+
+> Ser civilizado no es ser dócil.
+Es tener el coraje de abrir la caja negra de uno mismo.

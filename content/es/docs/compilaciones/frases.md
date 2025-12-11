@@ -15,8 +15,13 @@ toc: true
 
 > "El mundo no es lo que lo que nos dicen que es, sino lo que vemos con nuestros propios ojos." -**Antonio Escohotado**.
 
+> "El secreto de la genialidad es conservar el espíritu del niño hasta la vejez, lo que significa nunca perder el entusiasmo" **Aldous Huxley** <br>
+"The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm." -**Aldous Huxley**
+
 
 ## Libertad
+
+> "El mayor disparate de nuestros ancestros fue imaginar que las cosas fundamentales surgen por decreto creador (divino o gubernativo) y se extinguen por decreto derogatorio (divino o gubernativo), cuando en realidad brotan de un impersonal espíritu humano obligado sin pausa a aprender de sus equivocaciones, dentro de procesos aleatorios que constituyen **la historia de su propia libertad**." -**Escohotado**.
 
 > "**Toda pena** (dice el gran Montesquieu) que no se deriva de la **absoluta necesidad**, es **tiránica**." -**Cesare Beccaria**.
 

@@ -211,13 +211,13 @@ article > h2 {
 
 @keyframes darktolight-animated {
   0% {
-    filter: brightness(0%);
+    filter: brightness(25%);
   }
-  50% {
+  5% {
     filter: brightness(100%);
   }
   100% {
-    filter: brightness(0%);
+    filter: brightness(25%);
   }
 }
 

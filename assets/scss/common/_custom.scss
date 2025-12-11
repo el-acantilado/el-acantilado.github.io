@@ -159,6 +159,11 @@ article > h2 {
   background-size: contain;
 }
 
+.pixel-perfect {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges
+}
+
 @keyframes hue-animated {
   0% {
       filter: hue-rotate(0deg);

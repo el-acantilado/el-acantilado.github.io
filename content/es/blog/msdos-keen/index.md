@@ -1,0 +1,82 @@
+---
+title: "Tres juegos maravillosos"
+subtitle: "Commander Keen y el niño"
+description: 'Las primeras formas del mito: un niño, un teclado pesado y mundos donde lo sagrado se insinuaba entre pixeles.'
+excerpt: 'Las primeras formas del mito: un niño, un teclado pesado y mundos donde lo sagrado se insinuaba entre pixeles.'
+url: "/blog/msdos-keen"
+date: 2025-12-11
+lastmod: 2025-12-11
+draft: true
+weight: 50
+images: ['keen.png']
+poststyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
+postinnerstyle: "animation: oversaturate-animated 2s ease-in-out infinite alternate; "
+categories: ["Remembranzas"]
+tags: ["juegos", "ordenadores"]
+contributors: ["Daniel Cañizares"]
+pinned: false
+homepage: false
+---
+
+Esta es una serie de recuerdos de tres juegos que marcaron hitos en mi inconsciente, pero que sólo décadas después recién comienzo a comprender.
+
+1. **Commander Keen 4**: el niño.
+2. **Another World**: el aislamiento.
+3. **Prince of Persia**: el hombre.
+
+## Commander Keen y el niño
+
+> "**El niño** simboliza el aspecto preconsciente de la totalidad del hombre." - **Jung**.
+
+1992, en el piso 6 de un edificio entre las montañas de Venezuela, está un pequeño estudio, de esos espacios que cuando nos extingamos bien podrían decir: *"así lucía un verdadero templo humano, ahí era donde ellos creaban"*.
+
+<img src="estudio.png" />
+
+El ambiente es caliente y acogedor, todo tiene un tono cálido, amarilloso, mezclado con madera, mucha madera. Todo está ordenado en repisas de varios niveles, en las que reposan manuales, disquettes, libros de arquitectura y pocillos llenos de lapices y marcadores. Al entrar, se ve una mesa de dibujo propia de un arquitecto; a la derecha, junto a una ventana está un computador. Se exhibe sobre una mesa, de madera también. Es de un plástico muy sólido, de ese que ya no estamos acostumbrados a ver en 2025. En el juega un niño en pijama. Sus dedos son pequeños y debe unir varios de ellos a la vez para presionar las teclas, reunidas en un teclado mecánico que sonaba como si procesara cada accion con un fuerte *clac*. Los pies del niño cuelgan de una silla y sólo se ve cómo tensiona todos sus músculos, como haciendo fuerza para que personaje que controla pueda saltar el siguiente obstáculo. En la pantalla, escasos pero coloridos 16 tonos, retratan un mundo extraterrestre de fantasía. Puede ver el final del nivel, allá alto en la equina. Corre hasta el borde y presiona **CONTROL** para saltar. Demasiado tarde. **Game Over**.
+
+
+Horas de juego le han enseñado que no hay caminos fáciles. Y que los mejores niveles están llenos de secretos: algunos ocultos tras pasadizos invisibles, otros aparentemente inalcanzables en el horizonte, sólo aparentemente. Presiona **ENTER** y comienza una nueva partida.
+
+<img src="keen-inicio.gif" class="pixel-perfect w-100" />
+
+Ve desde arriba un personaje de computador de piel totalmente blanca y unos pequeños ojos cuadrados. Casco amarillo, camisa morada, pantalones azules y tenis rojos. Es miniatura pero su postura, lo dice todo: permanece totalmente erguido. Camina desde su nave hasta la primer villa. La puerta está cerrada y debe superar el nivel para poder avanzar en el mapa. Presiona **ENTER** y una divertida fanfarria brota de la máquina.
+
+<img src="keen-nivel-1.png" class="pixel-perfect w-100" />
+
+Un nueva perspectiva brota de los pixeles y ahora el personaje es controlado de lado. Curiosamente este primer nivel tiene una particularidad que pocos juegos de plataformas: se recorre de izquierda a derecha, como indicando al jugador que esto no es sólo de avanzar, si no de explorar: también hay casas a las que se puede entrar, y desde ellas bajar a cavernas con las que pasarse el nivel sin recorrer la superficie del bosque, incluso es posible recorrer todo (yendo y viniendo) para conseguir más objetos (caramelos, vidas y munición para su pistola que deja a los enemigos noqueados).
+
+Sin embargo, ese nivel ya es fácil para el niño, **ya lo conoce** y sabe qué hacer. Pronto lo termina y regresa al mapa. Se abren varias posibilidades: puede ir a otra aldea y desbloquear un basto territorio, visitar una aldea bajo tierra o nadar hacia tres islas de un aspecto inusualmente llamativo. Pero para eso tendrá que esperar llegar a más lejos, aún no sabe que más adelante conocerá una **princesa** que le guiará para conseguir un traje de buceo. Aprenderá también luego, que debe rescatar a unos **ancianos sabios** -los Gnosticenes-, portadores del conocimiento profundo del Oráculo para poder completar su aventura. Desde ciudades en el desierto repletas de espejismos, hasta pirámides repletas de desafios, pasando por parajes invernales hasta islas llenas de palmeras, incluso puertas flotando cómo geometrias imposibles, jugabilidad y símbolos se mezclan en la cabeza de ese pequeño niño, que sigue moviendo sus pies, como intentando darle más fuerza al aún más pequeño personaje que controla.
+
+<img src="keen-mapa.gif" class="pixel-perfect w-100" />
+
+- Dani -a dormir, gritó Mamá.
+
+- Un cuarto de hora más... ¿Si? -había aprendido a decir por reflejo, al escuchar a los adultos. Pensaba que significaba cuarenta minutos más y siempre sentía que el llamado de mamá a los escasos 15 minutos siguientes, se sentía como un pequeño engaño.
+
+Presiono **ESCAPE**. Guardo la partida. Salió del juego. Hundió el botón con forma **switch** para que dejara de pasar electricidad hacia la máquina.
+
+<img src="fin.png" />
+
+## Another World
+
+> "El arte es una especie de instinto que empuja al hombre a expresar su naturaleza interna." - **Jung**.
+
+
+another.exe
+
+Enemigos alienigenas.
+
+Caer por azar.
+
+
+
+## Prince of Persia
+
+> "El verdadero camino del héroe es el retorno hacia sí mismo." -**Jung**.
+
+La injusticia.
+
+Enemigos humanos.
+
+
+

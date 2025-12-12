@@ -52,7 +52,7 @@ Una nueva perspectiva brota de los pixeles y ahora el personaje es controlado de
 
 <img src="keen-anim.gif" class="pixel-perfect w-100" />
 
-Sin embargo, al niño se le antoja fácil ese nivel, **ya lo conoce** y sabe qué hacer. Pronto lo termina y regresa al mapa. Se abren varias posibilidades: puede ir a otra aldea y desbloquear una vasta región, visitar un asentamiento bajo tierra o nadar hacia tres islas de un aspecto inusualmente llamativo. No sin antes conseguir un traje de buceo, camino que la **princesa** revelerá. Conocerá **aliados** y **enemigos**. Descubrirá que su aventura esta ligada al destino de unos **ancianos sabios** —los Gnosticenes—, portadores del conocimiento profundo.
+Sin embargo, al niño se le antoja fácil ese nivel, **ya lo conoce** y sabe qué hacer. Pronto lo termina y regresa al mapa. Se abren varias posibilidades: puede ir a otra aldea y desbloquear una vasta región, visitar un asentamiento subterráneo o nadar hacia tres islas de un aspecto inusualmente llamativo. No sin antes conseguir un traje de buceo, camino que la **princesa** revelerá. Conocerá **aliados** y **enemigos**. Descubrirá que su aventura esta ligada al destino de unos **ancianos sabios** —los Gnosticenes—, portadores del conocimiento profundo.
 
 <center>
 <img src="keen-viejo.gif" class="pixel-perfect" />

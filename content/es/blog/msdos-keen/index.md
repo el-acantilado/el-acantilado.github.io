@@ -32,7 +32,7 @@ Esta es una serie de recuerdos de tres juegos que dejaron marcas profundas en mi
 
 <img src="estudio.png" />
 
-El ambiente es cálido y acogedor, de un tono amarillento, mezclado con madera, mucha madera. Todo está ordenado en repisas de varios niveles, en las que reposan manuales, disquettes, libros de arquitectura y pocillos llenos de lápices y marcadores. Al entrar, se ve una mesa de dibujo, propia de un arquitecto; a la derecha junto a una ventana, está un computador —se exhibe sobre una mesa de madera, también— es de un plástico muy sólido, de ese que ya no estamos acostumbrados a ver en 2025. En él juega un niño en pijama. Sus dedos son pequeños y debe juntar varios de ellos a la vez para presionar las teclas, acomodadas en aquel teclado mecánico que responde a cada acción con un seco y contundente *clac*.
+El ambiente es cálido y acogedor, de un tono amarillento, mezclado con madera, mucha madera. Todo está ordenado en repisas de varios niveles, en las que reposan manuales, disquettes, libros de arquitectura y pocillos llenos de lápices y marcadores. Al entrar, se ve una mesa de dibujo, propia de un arquitecto; a la derecha junto a una ventana, está un computador —exhibido sobre una mesa de madera—. Es de un plástico muy sólido, de ese que ya no estamos acostumbrados a ver en 2025. En él juega un niño en pijama. Sus dedos son pequeños y debe juntar varios de ellos a la vez para presionar las teclas, acomodadas en aquel teclado mecánico que responde a cada acción con un seco y contundente *clac*.
 
 <img src="keen-piramide-adentro.png" class="pixel-perfect w-100" />
 
@@ -52,7 +52,7 @@ Una nueva perspectiva brota de los pixeles y ahora el personaje es controlado de
 
 <img src="keen-anim.gif" class="pixel-perfect w-100" />
 
-Sin embargo, ese nivel ya es fácil para el niño, **ya lo conoce** y sabe qué hacer. Pronto lo termina y regresa al mapa. Se abren varias posibilidades: puede ir a otra aldea y desbloquear un vasto territorio, visitar un asentamiento bajo tierra o nadar hacia tres islas de un aspecto inusualmente llamativo. No sin antes conseguir un traje de buceo, camino que la **princesa** revelerá. Conocerá **aliados** y **enemigos**. Descubrirá que su aventura esta ligada al destino de unos **ancianos sabios** -los Gnosticenes-, portadores del conocimiento profundo.
+Sin embargo, ese nivel ya es fácil para el niño, **ya lo conoce** y sabe qué hacer. Pronto lo termina y regresa al mapa. Se abren varias posibilidades: puede ir a otra aldea y desbloquear un vasto territorio, visitar un asentamiento bajo tierra o nadar hacia tres islas de un aspecto inusualmente llamativo. No sin antes conseguir un traje de buceo, camino que la **princesa** revelerá. Conocerá **aliados** y **enemigos**. Descubrirá que su aventura esta ligada al destino de unos **ancianos sabios** —los Gnosticenes—, portadores del conocimiento profundo.
 
 <center>
 <img src="keen-viejo.gif" class="pixel-perfect" />
@@ -68,9 +68,9 @@ Desde ciudades en el desierto repletas de espejismos, hasta pirámides repletas 
 <img src="keen-miragia.png" class="pixel-perfect w-100 mb-2" />
 <img src="keen-puerta.gif" class="pixel-perfect w-100 mb-2" />
 
-- Dani -a dormir, gritó Mamá.
+— Dani a dormir —dijo Mamá a lo lejos.
 
-- Un cuarto de hora más... ¿Si? -había aprendido a decir por reflejo al escuchar a los adultos. Pensaba que significaba cuarenta minutos más y siempre sentía que el llamado de mamá a los escasos 15 minutos siguientes, se sentía como un pequeño engaño.
+— Un cuarto de hora más... ¿Si? —había aprendido a decir por reflejo al escuchar a los adultos. Pensaba que significaba cuarenta minutos más y siempre sentía que el llamado de mamá a los escasos 15 minutos siguientes, se sentía como un pequeño engaño.
 
 <center>
 <img src="keen-mapa.gif" class="pixel-perfect w-75" />

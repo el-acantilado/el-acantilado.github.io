@@ -48,7 +48,7 @@ Ve desde arriba un personaje de computador de piel completamente blanca y unos p
 
 <img src="keen-nivel-1.png" class="pixel-perfect w-100" />
 
-Una nueva perspectiva brota de los pixeles y ahora el personaje es controlado de lado. Curiosamente, este primer nivel tiene una particularidad: se recorre de derecha a izquierda, como indicando al jugador que esto no va de avanzar, sino de explorar: también hay casas a las que se puede entrar y desde ellas, descender a cavernas con las que pasarse el nivel sin recorrer la superficie del bosque. Incluso es posible recorrer todo para conseguir más caramelos, vidas y munición para su pistola.
+Una nueva perspectiva brota de los pixeles y ahora el personaje es controlado de lado. Este primer nivel tiene una particularidad, se recorre de derecha a izquierda, como indicandole al niño que esto no va de avanzar, sino de explorar. Puede andar por el bosque de árboles vivientes. O quizá decida entrar en unas casas de piedra y desde ellas, descender a cavernas llenas caramelos y municiones para la pistola.
 
 <img src="keen-anim.gif" class="pixel-perfect w-100" />
 
@@ -60,7 +60,7 @@ Sin embargo, al niño se le antoja fácil ese nivel, **ya lo conoce** y sabe qu�
 <img src="keen-princesa.gif" class="pixel-perfect" />
 </center>
 
-Desde ciudades en el desierto repletas de espejismos, hasta pirámides repletas de desafíos, pasando por parajes invernales hasta islas llenas de palmeras, incluso puertas flotando como geometrías imposibles, jugabilidad y símbolos se mezclan en la cabeza de ese pequeño niño, que sigue moviendo sus pies, como intentando darle más fuerza al aún más pequeño personaje que controla.
+Desde ciudades en el desierto repletas de espejismos hasta parajes invernales, pasando por pirámides de dificultad inclemente, incluso puertas flotando como geometrías imposibles, jugabilidad y símbolos se mezclan en la cabeza de ese pequeño niño, que sigue moviendo sus pies, todavía tratando de darle más fuerza al aún más pequeño personaje que controla.
 
 <img src="keen-piramide.png" class="pixel-perfect w-100 mb-2" />
 <img src="keen-sabio.png" class="pixel-perfect w-100 mb-2" />
@@ -76,7 +76,7 @@ Desde ciudades en el desierto repletas de espejismos, hasta pirámides repletas 
 <img src="keen-mapa.gif" class="pixel-perfect w-75" />
 </center>
 
-Presiona **ESCAPE**. Guarda la partida. Se sale del juego. Hunde el botón con forma **switch**. La electricidad deja de fluir hacia la máquina, que se despide con un último destello de luz, mientras la pantalla se vuelve completamente negra.
+Presiona **ESCAPE**. Guarda la partida. Sale del juego. Hunde el botón con forma de **switch**. La electricidad deja de fluir hacia la máquina, que se despide con un último destello de luz mientras la pantalla libera sus últimos electrones contra el cristal de la pantalla.
 
 <center>
 <img src="fin.png" />

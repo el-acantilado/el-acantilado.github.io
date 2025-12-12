@@ -44,7 +44,7 @@ Horas de juego le han enseñado que no existen caminos fáciles. Y que los mejor
 
 <img src="keen-inicio.gif" class="pixel-perfect w-100" />
 
-Ve desde arriba un personaje de computador de piel completamente blanca y unos pequeños ojos cuadrados. Casco amarillo, camisa morada, pantalones azules y tenis rojos. Es diminuto, pero su postura erguida lo dice todo. Camina desde su nave hasta la primera villa. La puerta está cerrada y debe superar el nivel para avanzar en el mapa. Presiona **ENTER** y la máquina responde cantando una fanfarria.
+Ve desde arriba un personaje de computador de piel completamente blanca y unos pequeños ojos cuadrados. Casco amarillo, camisa morada, pantalones azules y tenis rojos. Es diminuto, pero su postura erguida lo dice todo. Camina desde su nave hasta la primera villa. La puerta está cerrada y debe superar el nivel para avanzar en el mapa. Presiona **ENTER** y la máquina responde entonando una fanfarria.
 
 <img src="keen-nivel-1.png" class="pixel-perfect w-100" />
 
@@ -52,7 +52,7 @@ Una nueva perspectiva brota de los pixeles y ahora el personaje es controlado de
 
 <img src="keen-anim.gif" class="pixel-perfect w-100" />
 
-Sin embargo, al niño se le antoja fácil ese nivel, **ya lo conoce** y sabe qué hacer. Pronto lo termina y regresa al mapa. Se abren varias posibilidades: puede ir a otra aldea y desbloquear un vasto territorio, visitar un asentamiento bajo tierra o nadar hacia tres islas de un aspecto inusualmente llamativo. No sin antes conseguir un traje de buceo, camino que la **princesa** revelerá. Conocerá **aliados** y **enemigos**. Descubrirá que su aventura esta ligada al destino de unos **ancianos sabios** —los Gnosticenes—, portadores del conocimiento profundo.
+Sin embargo, al niño se le antoja fácil ese nivel, **ya lo conoce** y sabe qué hacer. Pronto lo termina y regresa al mapa. Se abren varias posibilidades: puede ir a otra aldea y desbloquear una vasta región, visitar un asentamiento bajo tierra o nadar hacia tres islas de un aspecto inusualmente llamativo. No sin antes conseguir un traje de buceo, camino que la **princesa** revelerá. Conocerá **aliados** y **enemigos**. Descubrirá que su aventura esta ligada al destino de unos **ancianos sabios** —los Gnosticenes—, portadores del conocimiento profundo.
 
 <center>
 <img src="keen-viejo.gif" class="pixel-perfect" />
@@ -76,7 +76,7 @@ Desde ciudades en el desierto repletas de espejismos hasta parajes invernales, p
 <img src="keen-mapa.gif" class="pixel-perfect w-75" />
 </center>
 
-Presiona **ESCAPE**. Guarda la partida. Sale del juego. Hunde el botón con forma de **switch**. La electricidad deja de fluir hacia la máquina, que se despide con un último destello de luz mientras la pantalla libera sus últimos electrones contra el cristal de la pantalla.
+Presiona **ESCAPE**. Guarda la partida. Sale del juego. Hunde el botón con forma de **switch**. La electricidad deja de fluir hacia la máquina, que se despide con un último destello de luz mientras la pantalla libera sus últimos electrones contra el cristal.
 
 <center>
 <img src="fin.png" />

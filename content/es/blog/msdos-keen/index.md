@@ -48,19 +48,22 @@ Ve desde arriba un personaje de computador de piel completamente blanca y unos p
 
 <img src="keen-nivel-1.png" class="pixel-perfect w-100" />
 
-Una nueva perspectiva brota de los pixeles y ahora el personaje es controlado de lado. Este primer nivel tiene una particularidad, se recorre de derecha a izquierda, como indicandole al niño que esto no va de avanzar, sino de explorar. Puede andar por el bosque de árboles vivientes. O quizá decida entrar en unas casas de piedra y desde ellas, descender a cavernas llenas caramelos y municiones para la pistola.
+Ahora el niño puede explorar. Una nueva perspectiva brota de los pixeles y el mundo se abre ante él. El nivel se extiende hacia los costados y no apremia. Hay árboles que se mueven como si estuvieran vivos. Casas de piedra dispersas en el bosque. Desde algunas se puede bajar a cavernas, llenas de caramelos y munición para la pistola.
 
 <img src="keen-anim.gif" class="pixel-perfect w-100" />
 
-Sin embargo, al niño se le antoja fácil ese nivel, **ya lo conoce** y sabe qué hacer. Pronto lo termina y regresa al mapa. Se abren varias posibilidades: puede ir a otra aldea y desbloquear una vasta región, visitar un asentamiento subterráneo o nadar hacia tres islas de un aspecto inusualmente llamativo. No sin antes conseguir un traje de buceo, camino que la **princesa** revelerá. Conocerá **aliados** y **enemigos**. Descubrirá que su aventura esta ligada al destino de unos **ancianos sabios** —los Gnosticenes—, portadores del conocimiento profundo.
+Sin embargo, al niño se le antoja fácil el nivel. **Ya lo conoce** y sabe qué hacer. Pronto lo termina y regresa al mapa. Se abre un mundo de posibilidades. Sitios únicos, símbolos, llaves, princesas, sabios y demonios. Demasiadas cosas para entenderlas, suficientes para querer seguir jugando.
 
+<center>
+<img src="keen-mapa.gif" class="pixel-perfect w-75" />
+</center>
+<br>
 <center>
 <img src="keen-viejo.gif" class="pixel-perfect" />
 <img src="keen-malo.gif" class="pixel-perfect" />
 <img src="keen-princesa.gif" class="pixel-perfect" />
 </center>
-
-Desde ciudades en el desierto repletas de espejismos hasta parajes invernales, pasando por pirámides de dificultad inclemente, incluso puertas flotando como geometrías imposibles, jugabilidad y símbolos se mezclan en la cabeza de ese pequeño niño, que sigue moviendo sus pies, todavía tratando de darle más fuerza al aún más pequeño personaje que controla.
+<br>
 
 <img src="keen-piramide.png" class="pixel-perfect w-100 mb-2" />
 <img src="keen-sabio.png" class="pixel-perfect w-100 mb-2" />
@@ -72,9 +75,7 @@ Desde ciudades en el desierto repletas de espejismos hasta parajes invernales, p
 
 — Un cuarto de hora más... ¿Si? —había aprendido a decir por reflejo al escuchar a los adultos. Pensaba que significaba cuarenta minutos más y siempre sentía que el llamado de mamá a los escasos 15 minutos siguientes, se sentía como un pequeño engaño.
 
-<center>
-<img src="keen-mapa.gif" class="pixel-perfect w-75" />
-</center>
+
 
 Presiona **ESCAPE**. Guarda la partida. Sale del juego. Hunde el botón con forma de **switch**. La electricidad deja de fluir hacia la máquina, que se despide con un último destello de luz mientras la pantalla libera sus últimos electrones contra el cristal.
 

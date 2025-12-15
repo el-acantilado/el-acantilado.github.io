@@ -11,13 +11,18 @@ weight: 102
 toc: true
 ---
 
-## Humanismo
+## Espíritu
+
+> "Sólo hay un bien: el conocimiento. Sólo hay un mal la ignorancia." - Atribuída a Sócrates.
+
+## Humanidad
+
+> "Una **persona arrogante** se considera a sí misma **perfecta**. Este es el principal prejuicio de la arrogancia. **Interfiere** con la principal tarea del ser humano: *convertirse* en alguien mejor." - León Tolstoi.
 
 > "El mundo no es lo que lo que nos dicen que es, sino lo que vemos con nuestros propios ojos." -**Antonio Escohotado**.
 
-> "El secreto de la genialidad es conservar el espíritu del niño hasta la vejez, lo que significa nunca perder el entusiasmo" **Aldous Huxley** <br>
+> "El secreto de la genialidad es conservar el espíritu del niño hasta la vejez, lo que significa nunca perder el entusiasmo" - Atribuída a **Aldous Huxley** <br>
 "The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm." -**Aldous Huxley**
-
 
 ## Libertad
 
@@ -33,3 +38,7 @@ toc: true
 
 
 > "La anarquía no es garantia de que algunas personas no matarán, lastimarán, secuestrarán, defraudarán, o robarán de otros. **El gobierno es la garantía de que algunos lo harán**" -Gustave de Molinari.
+
+> "Cinco minutos después de nacer, decidirán tu nombre, nacionalidad, religión y secta, y pasarás el resto de tu vida defendiendo desesperadamente cosas que no elegiste" -Arthur Schopenhauer
+
+> "**La multitud ni quiere ni busca conocimiento**, y los líderes de la multidud, en su propio interés, tratan de fortalecer su miedo y aversión a todo lo nuevo y desconocido. La **esclavitud** en la vive la humanidad se basa en este miedo" - George Gurdjieff.

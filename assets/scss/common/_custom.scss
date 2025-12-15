@@ -191,6 +191,9 @@ article > h2 {
   pointer-events: none;
 }
 
+#offcanvasDoksLabel {
+  text-transform: uppercase;
+}
 
 @keyframes hue-animated {
   0% {
@@ -239,15 +242,13 @@ article > h2 {
 
 @keyframes darktolight-animated {
   0% {
-    filter: brightness(25%);
-  }
-  5% {
-    filter: brightness(100%);
+    filter: brightness(70%);
   }
   100% {
-    filter: brightness(25%);
+    filter: brightness(150%);
   }
 }
+
 
 
 body {

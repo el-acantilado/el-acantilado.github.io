@@ -9,8 +9,8 @@ lastmod: 2025-11-20
 draft: false
 weight: 50
 images: ['physician.jpg']
-poststyle: "animation: darktolight-animated 10s infinite; "
-postinnerstyle: "animation: darktolight-animated 10s infinite; "
+poststyle: "animation: darktolight-animated 3.5s ease-in-out infinite alternate;"
+postinnerstyle: "animation: darktolight-animated 3.5s ease-in-out infinite alternate;"
 categories: ["Reflexiones"]
 tags: ["salud", "humano/máquina"]
 contributors: ["Juan Felipe Cañizares"]

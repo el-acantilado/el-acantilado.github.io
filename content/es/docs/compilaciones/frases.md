@@ -21,10 +21,16 @@ toc: true
 
 > "El mundo no es lo que lo que nos dicen que es, sino lo que vemos con nuestros propios ojos." -**Antonio Escohotado**.
 
-> "El secreto de la genialidad es conservar el espíritu del niño hasta la vejez, lo que significa nunca perder el entusiasmo" - Atribuída a **Aldous Huxley** <br>
-"The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm." -**Aldous Huxley**
+> "El secreto de la genialidad es conservar el espíritu del niño hasta la vejez, lo que significa nunca perder el entusiasmo" -atribuída a **Aldous Huxley** <br>
+"The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm." -atributted to **Aldous Huxley**
+
+> "El privilegio de toda una vida es llegar a ser quien realmente eres." -atribuída a **Carl Jung** <br>
+"The privilege of a lifetime is to become who you truly are." -atributted to  **Carl Jung**
 
 ## Libertad
+
+> "Corruptissima re publica plurimae leges." -Tacitus. <br>
+"Cuanto más corrupta es la república, más abundan las leyes.". -**Tácito**.
 
 > "El mayor disparate de nuestros ancestros fue imaginar que las cosas fundamentales surgen por decreto creador (divino o gubernativo) y se extinguen por decreto derogatorio (divino o gubernativo), cuando en realidad brotan de un impersonal espíritu humano obligado sin pausa a aprender de sus equivocaciones, dentro de procesos aleatorios que constituyen **la historia de su propia libertad**." -**Escohotado**.
 

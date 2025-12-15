@@ -18,13 +18,16 @@ pinned: false
 homepage: false
 ---
 
-Esta es una serie de recuerdos de tres juegos que dejaron marcas profundas en mi inconsciente, aunque sólo décadas después comienzo a entenderlas. Cada uno abrió una puerta distinta:
+Esta es una serie de recuerdos de tres juegos que dejaron marcas profundas en mi inconsciente, aunque sólo décadas después comienzo a entenderlas. Cada uno abre una puerta distinta:
 
 1. **Commander Keen**: el niño.
-2. **Another World**: el aislamiento.
-3. **Prince of Persia**: el hombre.
+2. **Another World**: el aislamiento. (próximamente)
+3. **Prince of Persia**: el hombre. (próximamente)
+
+Esta es una publicación multimedia —texto, imagenes y sonido—. Como música de fondo esta es la recomendación [Brian Eno - An ending](https://www.youtube.com/watch?v=OlaTeXX3uH8)
 
 ## Commander Keen y el niño
+
 
 > "**El niño** simboliza el aspecto preconsciente de la totalidad del hombre." - **Jung**.
 
@@ -71,11 +74,9 @@ Sin embargo, al niño se le antoja fácil el nivel. **Ya lo conoce** y sabe qué
 <img src="keen-miragia.png" class="pixel-perfect w-100 mb-2" />
 <img src="keen-puerta.gif" class="pixel-perfect w-100 mb-2" />
 
-— Dani a dormir —dijo Mamá a lo lejos.
+— Dani, a dormir —dice Mamá a lo lejos.
 
-— Un cuarto de hora más... ¿Si? —había aprendido a decir por reflejo al escuchar a los adultos. Pensaba que significaba cuarenta minutos más y siempre sentía que el llamado de mamá a los escasos 15 minutos siguientes, se sentía como un pequeño engaño.
-
-
+— Un cuarto de hora más... ¿Si? —responde por reflejo, como ha aprendido a hacerlo al escuchar a los adultos. Para él significa cuarenta minutos más, y el llamado de mamá a los escasos quince minutos siguientes, se siente como un pequeño engaño.
 
 Presiona **ESCAPE**. Guarda la partida. Sale del juego. Hunde el botón con forma de **switch**. La electricidad deja de fluir hacia la máquina, que se despide con un último destello de luz mientras la pantalla libera sus últimos electrones contra el cristal.
 

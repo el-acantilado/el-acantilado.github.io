@@ -27,6 +27,8 @@ toc: true
 > "El privilegio de toda una vida es llegar a ser quien realmente eres." -atribuída a **Carl Jung** <br>
 "The privilege of a lifetime is to become who you truly are." -atributted to  **Carl Jung**
 
+> "Synchronicity is the coming together of inner and outer events in a way that cannot be explained by cause and effect and that is meaningful to the observer." ― Carl Jung
+
 ## Libertad
 
 > "Corruptissima re publica plurimae leges." -Tacitus. <br>

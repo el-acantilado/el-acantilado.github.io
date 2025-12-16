@@ -68,7 +68,7 @@ Los pies del niño cuelgan de una silla y sólo se percibe cómo tensa sus músc
 <br id="parte-2">
 <br />
 
-<img src="keen-menu.gif" class="pixel-perfect w-100" />
+<img src="keen-menu.gif" class="pixel-perfect w-100 mt-4" />
 
 Horas de juego le han enseñado que no existen caminos fáciles. Y que los mejores niveles están llenos de secretos: algunos ocultos tras pasadizos invisibles, otros aparentemente inalcanzables en el horizonte —*sólo aparentemente*. Presiona **AVANZAR**. Comienza una nueva partida.
 
@@ -79,7 +79,7 @@ Horas de juego le han enseñado que no existen caminos fáciles. Y que los mejor
 <br id="parte-3">
 <br />
 
-<img src="keen-inicio.gif" class="pixel-perfect w-100" />
+<img src="keen-inicio.gif" class="pixel-perfect w-100 mt-4" />
 
 Ve desde arriba un personaje de computador de piel completamente blanca y unos pequeños ojos cuadrados. Casco amarillo, camisa morada, pantalones azules y tenis rojos. Es diminuto, pero su postura erguida lo dice todo. Camina desde su nave hasta la primera villa. La puerta está cerrada y debe superar el nivel para avanzar en el mapa. Presiona **AVANZAR** y la máquina responde entonando una fanfarria.
 
@@ -90,7 +90,7 @@ Ve desde arriba un personaje de computador de piel completamente blanca y unos p
 <br id="parte-4">
 <br />
 
-<img src="keen-nivel-1.png" class="pixel-perfect w-100" />
+<img src="keen-nivel-1.png" class="pixel-perfect w-100 mt-4" />
 
 Ahora el niño puede explorar. Una nueva perspectiva brota de los pixeles y el mundo se abre ante él. El nivel se extiende hacia los costados y no apremia. Hay árboles que se mueven como si estuvieran vivos. Casas de piedra dispersas en el bosque. Desde algunas se puede bajar a cavernas, llenas de caramelos y munición para la pistola.
 
@@ -101,7 +101,7 @@ Ahora el niño puede explorar. Una nueva perspectiva brota de los pixeles y el m
 <br id="parte-5">
 <br />
 
-<img src="keen-anim.gif" class="pixel-perfect w-100" />
+<img src="keen-anim.gif" class="pixel-perfect w-100 mt-4" />
 
 Sin embargo, al niño se le antoja fácil el nivel. **Ya lo conoce** y sabe qué hacer. Pronto lo termina y regresa al mapa. Se abre un mundo de posibilidades. Sitios únicos, símbolos, llaves, princesas, sabios y demonios. Demasiadas cosas para entenderlas, suficientes para querer seguir jugando.
 
@@ -113,7 +113,7 @@ Sin embargo, al niño se le antoja fácil el nivel. **Ya lo conoce** y sabe qué
 <br />
 
 <center>
-<img src="keen-mapa.gif" class="pixel-perfect w-75" />
+<img src="keen-mapa.gif" class="pixel-perfect w-75 mt-4" />
 </center>
 <br>
 <center>
@@ -134,7 +134,7 @@ Sin embargo, al niño se le antoja fácil el nivel. **Ya lo conoce** y sabe qué
 <div class="vh-100 recorte-inferior my-4">&nbsp;</div>
 <br id="parte-7">
 <br />
-<img src="keen-puerta.gif" class="pixel-perfect w-100 mb-2" />
+<img src="keen-puerta.gif" class="pixel-perfect w-100 mb-2 mt-4" />
 
 — Dani, a dormir —dice Mamá a lo lejos.
 

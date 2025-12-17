@@ -47,7 +47,7 @@ Una vez esté sonando la música, utiliza estos botones para navegar entre las "
 
 <img src="estudio.png" />
 
-El ambiente es cálido y acogedor, de un tono amarillento, mezclado con madera, mucha madera. Todo está ordenado en repisas de múltiples niveles, en las que reposan manuales, disquettes, libros de arquitectura y pocillos llenos de lápices y marcadores. Al entrar, se ve una mesa de dibujo, propia de un arquitecto; a la derecha, junto a una ventana, está un computador —exhibido sobre una mesa de madera—. Es de un plástico muy sólido, de ese que ya no estamos acostumbrados a ver en 2025. En él juega un niño en pijama. Sus dedos son pequeños y debe juntar varios de ellos a la vez para presionar las teclas, acomodadas en aquel teclado mecánico que responde a cada acción con un seco y contundente *clac*.
+El ambiente es cálido y acogedor, de un tono amarillento, mezclado con madera, mucha madera. Todo está ordenado en repisas de múltiples niveles, en las que reposan manuales, disquettes, libros y pocillos llenos de lápices y marcadores. Al entrar, se ve una mesa de dibujo, propia de un arquitecto; a la derecha, junto a una ventana, está un computador —exhibido sobre una mesa de madera—. Es de un plástico muy sólido, de ese que ya no estamos acostumbrados a ver en 2025. En él juega un niño en pijama. Sus dedos son pequeños y debe juntar varios de ellos a la vez para presionar las teclas, acomodadas en aquel teclado mecánico que responde a cada acción con un seco y contundente *clac*.
 
 <center>
 <a href="#parte-1" class="btn btn-primary btn-lg">AVANZAR <br><i class="bi bi-arrow-return-left"></i></a>

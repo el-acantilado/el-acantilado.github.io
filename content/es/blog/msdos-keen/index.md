@@ -136,7 +136,7 @@ Sin embargo, al niño se le antoja fácil el nivel. **Ya lo conoce** y sabe qué
 <br />
 <img src="keen-puerta.gif" class="pixel-perfect w-100 mb-2 mt-4" />
 
-— Dani, a dormir —dice Mamá a lo lejos.
+— Dani, a dormir —dice mamá a lo lejos.
 
 — Un cuarto de hora más... ¿Si? —responde por reflejo, como ha aprendido a hacerlo al escuchar a los adultos. Para él significa cuarenta minutos más, y el llamado de mamá a los escasos quince minutos siguientes, se siente como un pequeño engaño.
 

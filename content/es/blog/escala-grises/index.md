@@ -4,15 +4,15 @@ subtitle: "Historias cortas"
 description: 'Una fría tarde, como cualquier otra, en el opaco edificio gris de la calle 101...'
 excerpt: 'Una fría tarde, como cualquier otra, en el opaco edificio gris de la calle 101...'
 url: "/blog/escala-grises"
-date: 2025-12-24
-lastmod: 2025-12-24
-draft: true
+date: 2025-12-29
+lastmod: 2025-12-29
+draft: false
 weight: 50
 images: ['escala-grises.png']
 poststyle: "animation: oversaturate—animated 2s ease-in-out infinite alternate; "
 postinnerstyle: "animation: oversaturate—animated 2s ease-in-out infinite alternate; "
 categories: ["Escritos"]
-tags: ["juegos", "ordenadores"]
+tags: ["historias"]
 contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false
@@ -36,5 +36,9 @@ Prefirió centrar su atención en su taza de café. Tampoco es que fuera algo im
 
 —¿Estás ahí, señorita maravilla? —interrumpió la antipática voz del gordo —. La reunión terminó.
 
-Jacky volvió a sentir su ropa mojada. La ira retornaba con fuerza mientras  todos se pararon. Nadie se despidió. Quedaron solos ella y él. Asió la taza de café ya fría. Arrojó los residuos color ocre en la cara regordeta de su jefe, le dijo lo que tantas veces se había guardado para sí misma, lanzó un grito, y corrió. Tomó el ascensor, sintió que era libre... pero regresó a la realidad, estripó el icopor, lo tiró en la basura que estaba en la esquina del salón. Sonrió a su jefe cuando le sostuvo la puerta para salir de la sala de reuniones, aunque sabía que sólo lo hacía con la intención de mirarle el trasero de reojo. Se alejó hacia su puesto de trabajo, el setecientos sesenta y dos. En la pared un cartel leía: “Greenhart, empleados felices: todos somos más que un número”.
+Jacky volvió a sentir su ropa mojada. La ira retornaba con fuerza mientras  todos se pararon. Nadie se despidió. Quedaron solos ella y él. Asió la taza de café ya fría. Arrojó los residuos color ocre en la cara regordeta de su jefe, le dijo lo que tantas veces se había guardado para sí misma, lanzó un grito, y corrió. Tomó el ascensor, sintió que era libre... pero regresó a la realidad, estripó el icopor, lo tiró en la basura que estaba en la esquina del salón. Sonrió a su jefe cuando le sostuvo la puerta para salir de la sala de reuniones, aunque sabía que sólo lo hacía con la intención de mirarle el trasero de reojo. Se alejó hacia su puesto de trabajo, el setecientos sesenta y dos. En la pared un cartel leía:
+> “*Greenhart, empleados felices: todos somos más que un número*”.
 
+<center>
+<img alt="escala de grises fin" src="escala-grises-fin.png" />
+</center>

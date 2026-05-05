@@ -19,8 +19,6 @@ pinned: false
 homepage: false
 ---
 
-> *Texto creado en colaboración entre humano y máquina.*
-
 > **Contiene spoilers** pero es sobre todo es **un breve recuerdo** disfrazado de mini-crónica.
 
 Hay historias que ardieron hace décadas, pero la ceniza que dejaron en el aire quema con sólo acercarse. **Expreso de Medianoche**, *basada en hechos reales*, es una de ellas.

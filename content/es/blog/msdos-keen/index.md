@@ -1,5 +1,5 @@
 ---
-title: "Tres juegos maravillosos"
+title: "Juegos maravillosos"
 subtitle: "Commander Keen y el niño"
 description: 'Las primeras formas del mito: un niño, un teclado pesado y mundos donde lo sagrado se insinuaba entre pixeles.'
 excerpt: 'Las primeras formas del mito: un niño, un teclado pesado y mundos donde lo sagrado se insinuaba entre pixeles.'
@@ -17,12 +17,6 @@ contributors: ["Daniel Cañizares"]
 pinned: false
 homepage: false
 ---
-
-Esta es una serie de recuerdos de tres juegos que dejaron marcas profundas en mi inconsciente, aunque sólo décadas después comienzo a entenderlas. Cada uno abre una puerta distinta:
-
-1. **Commander Keen**: el niño.
-2. **Another World**: el aislamiento. (próximamente)
-3. **Prince of Persia**: el hombre. (próximamente)
 
 Esta es una publicación multimedia —texto, imagenes y sonido—. Como música de fondo, esta es la recomendación, dale clic para que suene:
 <center>

@@ -159,6 +159,14 @@ article > h2 {
   background-size: contain;
 }
 
+.blog-post img {
+  display: block;
+  margin: 1.5rem auto;
+  max-height: 60vh;
+  width: auto;
+  max-width: 100%;
+}
+
 .pixel-perfect {
   image-rendering: pixelated;
   image-rendering: crisp-edges
@@ -267,4 +275,3 @@ body {
     $custom-border-color
   );
 }
-

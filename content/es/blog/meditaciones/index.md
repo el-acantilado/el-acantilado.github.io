@@ -1,8 +1,8 @@
 ---
 title: "Meditaciones"
-subtitle: "Tres meditaciones para explorar la mente, el cuerpo y nuestra relación con el mundo"
-description: 'El Acantilado es una serie de meditaciones guiadas que parte de técnicas simples de atención y respiración para explorar algo más profundo: pensamientos, cuerpo, identidad y relación con el mundo. Sin dogmas, sin buscar una forma perfecta de meditar. Observar, comprender y finalmente soltar.'
-excerpt: '**El Acantilado** es una serie de meditaciones guiadas que parte de técnicas simples de atención y respiración para explorar algo más profundo: pensamientos, cuerpo, identidad y relación con el mundo. Sin dogmas, sin buscar una forma perfecta de meditar. **Observar, comprender y finalmente soltar.**'
+subtitle: "Para explorar la mente, el cuerpo y nuestra relación con el mundo"
+description: 'Una serie de meditaciones guiadas que parte de técnicas simples de atención y respiración para explorar algo más profundo: pensamientos, cuerpo, identidad y relación con el mundo.'
+excerpt: 'Una serie de meditaciones guiadas que parte de técnicas simples de atención y respiración para explorar algo más profundo: pensamientos, cuerpo, identidad y relación con el mundo.'
 url: "/blog/meditaciones"
 date: 2026-09-18
 lastmod: 2026-09-18
@@ -18,24 +18,7 @@ pinned: false
 homepage: false
 ---
 
-<!--
-Imagen de portada: meditaciones.png.
-Mantener el motivo principal centrado para el recorte de las tarjetas del blog.
--->
-
-**MEDITACIONES DE EL ACANTILADO**  
-*Al borde de la locura.*
-
-Tres sesiones para mirar un poco más de cerca eso que normalmente vivimos en automático.
-
 No se trata de dejar la mente en blanco, alcanzar un estado especial ni seguir una fórmula perfecta.
-
-Se trata de observar.
-
-La mente.  
-El cuerpo.  
-La respiración.  
-La frontera, a veces menos clara de lo que parece, entre nosotros y el mundo.
 
 ## Sesión 1 — Habitarse en soledad
 
